@@ -5,8 +5,8 @@ layout: default
 {% for post in paginator.posts %}
 <div class="article">
     <div class="well">
-        <h1><a href="{{ site.baseurl}}{{ post.url }}" class="post_title">{{ post.title }}</a> <br>
-            <span class="post_date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h1><a href="{{ site.baseurl}}{{ post.url }}" class="post_title">{{ post.title }}</a> 
+            <span class="post_date"> - {{ post.date | date: "%b %-d, %Y" }}</span>
         </h1>
 
         {% if site.comments and post.comments %}
