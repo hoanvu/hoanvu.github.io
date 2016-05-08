@@ -1,7 +1,7 @@
-/*body {
+body {
     padding-top: 0px;
     padding-bottom: 0px;
-}*/
+}
 
 .copyright {
     color: #ffffff;
@@ -58,4 +58,13 @@
 
 .post_title {
     font-size: 20px;
+}
+
+.navbar {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+hr {
+    margin-top: 0;
+    margin-bottom: 20px;
 }
