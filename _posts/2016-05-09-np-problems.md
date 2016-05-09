@@ -14,7 +14,7 @@ Now you may wonder how long does your algorithm run? Is it fast enough to satisf
 
 So, **searching for some item in a list** can be classified as a **P** problem because its execution time can be measured by some function of input size. In other words, its runtime is polynomial.
 
-Unfortunately, not every problem run in polynomial time, at least on regular computer, which means their runtime can not be determined using a linear function of the input size.
+Unfortunately, not every problem run in polynomial time, at least on regular computer, which means their runtime can not be determined using a linear function of the input size. We call these **NP problems**.
 
 Some examples of NP problems are:
 
@@ -24,3 +24,18 @@ Some examples of NP problems are:
 + ...
 
 There is a [million dollar question](https://en.wikipedia.org/wiki/Millennium_Prize_Problems) that if anybody can prove that "N=NP", that person will be granted a million dollar from Clay Mathematics Institute. 
+<br><br>
+
+#### NP-hard
+
+Sometimes you can be able to solve a problem by reducing it to a different problem. Problem A can be reduced to problem B means that given a solution to problem B, I can easily construct a solution to problem A. **Easily** means that the solution to problem A can run in polynomial time.
+
+A **NP-hard** problem means that I can reduce any problem in NP to that problem. In other words, if I can solve a NP-hard problem, I can easily solve any problem in NP. If we could solve an NP-hard problem in polynomial time, this would prove P=NP, and you'll win a million dollar.
+<br><br>
+
+#### NP-complete
+
+A problem is **NP-complete** if the problem is both: 
+
++ NP-hard, and
++ in NP
