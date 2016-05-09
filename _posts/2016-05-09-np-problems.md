@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NP Problems"
-date: 2016-05-08 11:58:20 +0700
+date: 2016-05-09 11:58:20 +0700
 categories: algorithm
 tags: algorithm np
 ---

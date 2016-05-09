@@ -68,3 +68,12 @@ hr {
     margin-top: 0;
     margin-bottom: 20px;
 }
+
+.toright {
+    float: right;
+    margin-top: 8px;
+}
+
+.social {
+    margin-left: 5px;
+}

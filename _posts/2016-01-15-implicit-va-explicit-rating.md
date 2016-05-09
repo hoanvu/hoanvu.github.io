@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Implicit và Explicit rating"
-date: 2016-05-08 11:19:20 +0700
+date: 2016-01-15 11:19:20 +0700
 categories: data_mining
 tags: data_mining implicit_rating explicit_rating
 ---
