@@ -14,6 +14,7 @@ algorithm to cluster the above set to 2 clusters. Then implement code to achieve
 ```
 
 For some of you who didn't already know, the K-means clustering algorithm should not be used to cluster 1D data, but for the sake of explaining the algorithm, we will use it to solve this problem.
+<br><br>
 
 #### KMeans definition, according to Wikipedia:
 
@@ -23,6 +24,12 @@ results in a partitioning of the data space into Voronoi cells.
 ```
 
 By reading the definition, k-means from our problem becomes 2-means because we are asked to separate the input set into 2 clusters. To accomplish this, we will also need 2 numbers, or 2 means, each mean will act as the centroid for each cluster. Let's call these two m1 and m2.
+
+Few key things about KMeans: 
+
++ It's an unsupervised learning algorithm, which mean input data are not labelled in advanced
++ We need to choose how many clusters (or ```k```) that input data will be grouped into
+<br><br>
 
 #### Pseudo-code:
 
@@ -35,6 +42,9 @@ By reading the definition, k-means from our problem becomes 2-means because we a
 3. UNTIL the centroids do not change anymore (or very little)
 ```
 
+**Note**: it's not compulsory that you have to use Manhattan distance. You can use other type of distance calculation like Euclidean. It's perfectly fine.
+<br><br>
+
 #### Pseudo-code walkthrough:
 
 **Step 1: Initiate m1 & m2:**
@@ -45,6 +55,7 @@ Because we have no clue which numbers to select as centroids to begin with, let'
 + m2 = 4
 
 The whole point of K-means clustering is that these centroids will be updated through time, they will not be fixed. After each iteration, members of each cluster will change and therefore affects the value of the cluster's mean.
+<br>
 
 **Step 2 - Iteration 1:**
 
@@ -62,19 +73,21 @@ The whole point of K-means clustering is that these centroids will be updated th
 |  11            |  9                      | 7                  
 |  25           |  23                     | 21         
 
+<br>
 2.2. From the above table, we have the following clusters:
 
 ```
-Cluster 1: {2, 3}
-Cluster 2: {4, 10, 12, 20, 30, 11, 25}
+Cluster_1: {2, 3}
+Cluster_2: {4, 10, 12, 20, 30, 11, 25}
 ```
 
 2.3. Calculate the mean and update m1 & m2:
 
 ```
-m1 = mean of (Cluster_1) = 2.5
-m2 = mean of (Cluster_2) = 16
+m1 = mean of Cluster_1 = 2.5
+m2 = mean of Cluster_2 = 16
 ```
+<br>
 
 **Step 2 - Iteration 2:**
 
@@ -92,19 +105,21 @@ m2 = mean of (Cluster_2) = 16
 |11  |9.5 |5
 |25  |22.5  |  9
 
+<br>
 2.2. From the above table, we have the following clusters:
 
 ```
-Cluster 1: {2, 4, 3}
-Cluster 2: {10, 12, 20, 30, 11, 25}
+Cluster_1: {2, 4, 3}
+Cluster_2: {10, 12, 20, 30, 11, 25}
 ```
 
 2.3. Calculate the mean and update m1 & m2:
 
 ```
-m1 = mean of (Cluster_1) = 4.5
-m2 = mean of (Cluster_2) = 18
+m1 = mean of Cluster_1 = 4.5
+m2 = mean of Cluster_2 = 18
 ```
+<br>
 
 **Step 2 - Iteration 3:**
 
@@ -122,19 +137,21 @@ m2 = mean of (Cluster_2) = 18
 |11  |6.5 |7
 |25  |20.5 |   7
 
+<br>
 2.2. From the above table, we have the following clusters:
 
 ```
-Cluster 1: {2, 4, 10, 3, 11}
-Cluster 2: {12, 20, 30, 25}
+Cluster_1: {2, 4, 10, 3, 11}
+Cluster_2: {12, 20, 30, 25}
 ```
 
 2.3. Calculate the mean and update m1 & m2:
 
 ```
-m1 = mean of (Cluster 1) = 6
-m2 = mean of (Cluster 2) = 21.75
+m1 = mean of Cluster_1 = 6
+m2 = mean of Cluster_2 = 21.75
 ```
+<br>
 
 **Step 2 - Iteration 4:**
 
@@ -152,19 +169,21 @@ m2 = mean of (Cluster 2) = 21.75
 |11  |5  | 10.75
 |25  |19 | 3.25
 
+<br>
 2.2. From the above table, we have the following clusters:
 
 ```
-Cluster 1: {2, 4, 10, 12, 3, 11}
-Cluster 2: {20, 30, 25}
+Cluster_1: {2, 4, 10, 12, 3, 11}
+Cluster_2: {20, 30, 25}
 ```
 
 2.3. Calculate the mean and update m1 & m2:
 
 ```
-m1 = mean (Cluster 1) = 7
-m2 = mean (Cluster 2) = 25
+m1 = mean of Cluster_1 = 7
+m2 = mean of Cluster_2 = 25
 ```
+<br>
 
 **Step 2 - Iteration 5:**
 
@@ -182,25 +201,33 @@ m2 = mean (Cluster 2) = 25
 |11 | 4  | 14
 |25 | 18 | 0
 
-2.2. From the above table, we have the following clusters:
+<br>
+2.2. From the above table, items are clustered as following:
 
 ```
-Cluster 1: {2, 4, 10, 12, 3, 11}
-Cluster 2: {20, 30, 25}
+Cluster_1: {2, 4, 10, 12, 3, 11}
+Cluster_2: {20, 30, 25}
 ```
 
 2.3. Calculate the mean and update m1 & m2:
 
 ```
-m1 = mean (Cluster 1) = 7
-m2 = mean (Cluster 2) = 25
+m1 = mean of Cluster_1 = 7
+m2 = mean of Cluster_2 = 25
 ```
 
 After iteration 5, we observe that m1 and m2 do not change their values, they are still 7 and 25. So we will stop the process and the result is 2 separate clusters:
 
 ```
-Cluster 1: {2, 4, 10, 12, 3, 11}
-Cluster 2: {20, 30, 25}
+Cluster_1: {2, 4, 10, 12, 3, 11}
+Cluster_2: {20, 30, 25}
 ```
 
-For full code implementation, you can see here. The implementation use pure Python, without including any external libraries.
+For [full code implementation, you can see here](https://github.com/hoanvu/assignment/blob/master/problem_7_kmeans.py). The implementation use pure Python, without including any external libraries.
+<br><br>
+
+#### Conclusion
+
+So by repeating calculating the cluster centroids and re-grouping items in each cluster based on new centroid's values (using distance formulas like Manhattan, Euclidean, ... distance), we are able to cluster input data into correct groups after a number of iterations.
+
+In some later posts, I will introduce ways to evaluate the performance of KMeans algorithm and how to choose suitable ```k``` for your data.
