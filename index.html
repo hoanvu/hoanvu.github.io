@@ -17,7 +17,10 @@ layout: default
             {% endif %}
         {% endif %}
         <div class="content">
-            {{ post.content }}
+            {{ post.content | strip_html | truncate:200 }}
+            {% if post.content | size > 200 %}
+              &nbsp;&nbsp;&nbsp; <em><a href="{{ site.baseurl}}{{ post.url }}">Read more >></a></em>
+            {% endif %}
         </div>
     </div>
 </div>
