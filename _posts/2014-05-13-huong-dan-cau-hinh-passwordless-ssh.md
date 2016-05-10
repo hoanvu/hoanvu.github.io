@@ -16,7 +16,7 @@ Trong một số trường hợp bạn cần truy cập từ một Linux server 
 Để dễ tưởng tượng, mình sẽ thực hiện cấu hình như mô hình dưới. Bạn đứng từ server A và muốn truy cập SSH vào server B mà không phải điền password. Việc cấu hình sẽ được thực hiện trên server A.
 <br><br>
 
-<p align="center"><img src="http://127.0.0.1:4000/images/passwordless-ssh.jpg"></p>
+<p align="center"><img src="http://hoanvu.github.io/images/passwordless-ssh.jpg"></p>
 
 Môi trường: **CentOS 6.4**
 <br><br>
