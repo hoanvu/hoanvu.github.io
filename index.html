@@ -19,7 +19,7 @@ layout: default
         <div class="content">
             {{ post.content | strip_html | truncate:210 }}
             {% if post.content | size > 200 %}
-              &nbsp;&nbsp;&nbsp; <em><a href="{{ site.baseurl}}{{ post.url }}">Read more >></a></em>
+              &nbsp;&nbsp;&nbsp; <em><a href="{{ site.baseurl}}{{ post.url }}">Read more &raquo;</a></em>
             {% endif %}
         </div>
     </div>

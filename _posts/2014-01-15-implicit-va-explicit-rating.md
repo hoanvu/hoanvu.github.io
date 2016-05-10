@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Implicit và Explicit rating"
-date: 2016-01-15 11:19:20 +0700
+date: 2014-01-15 11:19:20 +0700
 categories: data_mining
 tags: data_mining implicit_rating explicit_rating
 ---
@@ -30,6 +30,7 @@ Những tác vụ này đều được ghi lại, cụ thể hơn là trên máy
 + ...
 
 Như các bạn có thể thấy là hệ thống không yêu cầu người dùng phải tác động gì lên nội dung, mà chỉ quan sát thói quen họ hay làm gì trên website, sau một thời gian sẽ đưa ra được một profile của người dùng và qua đó xây dựng hệ thống tốt hơn để phục vụ họ.
+<br><br>
 
 #### Nhược điểm
 
@@ -45,7 +46,7 @@ a. _Explicit rating_
 
 b. _Implicit rating_
 
-Nhược điểm lớn nhất của implicit rating là thông tin của người dùng đôi lúc hoàn toàn sai lệch:
+Nhược điểm lớn nhất của implicit rating là **thông tin của người dùng đôi lúc hoàn toàn sai lệch**:
 
 + Cô A mua vài món đồ trên Amazon không hẳn là cô ta cần hoặc thích nó. Mà có thể mua hộ ai đó hoặc làm quà cho sinh nhật của cháu gái
 

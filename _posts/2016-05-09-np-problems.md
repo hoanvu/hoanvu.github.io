@@ -23,7 +23,9 @@ Some examples of NP problems are:
 + Travelling Salesman problem
 + ...
 
-There is a [million dollar question](https://en.wikipedia.org/wiki/Millennium_Prize_Problems) that if anybody can prove that "N=NP", that person will be granted a million dollar from Clay Mathematics Institute. 
+For a more comprehensive list, you can [take a look at this Wikipedia page.](https://en.wikipedia.org/wiki/List_of_NP-complete_problems){:target="_blank"}
+
+There is a [million dollar question](https://en.wikipedia.org/wiki/Millennium_Prize_Problems){:target="_blank"} that if anybody can prove that "N=NP", that person will be granted a million dollar from Clay Mathematics Institute. 
 <br><br>
 
 #### NP-hard
