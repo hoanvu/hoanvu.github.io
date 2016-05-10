@@ -12,7 +12,7 @@ Have you ever heard of the term **Big O Notation**? If the answer is no, it's so
 
 Now you may wonder how long does your algorithm run? Is it fast enough to satisfy her? Suppose she gave you **n** numbers. Every time the algorithm runs, it needs to check every items to make sure that the right number is returned. So we can say that the runtime of the algorithm is n. Now, this can be simply written as O(n). O is the short version of _Big O Notation_. So when your grumpy boss looks at this, she knows that if she gave your algorithm the input of 100 items, it takes 100 operations in order to get the result she needs.
 
-So, **searching for some item in a list** can be classified as a **P** problem because its execution time can be measured by some function of input size. In other words, its runtime is polynomial.
+So, **searching for some item in a list** can be classified as a **P** problem because its **execution time can be measured by some function of input size. In other words, its runtime is in polynomial time**.
 
 Unfortunately, not every problem run in polynomial time, at least on regular computer, which means their runtime can not be determined using a linear function of the input size. We call these **NP problems**.
 
