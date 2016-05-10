@@ -12,17 +12,17 @@
 </div>
 
 <div class="sidebar well">
-{% include links-list.html %}
-
-
-</div>
-
-<div class="sidebar well">
     <h1>Categories</h1>
     <ul>
         {% for cat in site.categories %}
-            <li>{{ cat | first }}</li>
+            <li>
+                <a href="{{ site.baseurl }}/category/{{cat | first }}/"> {{ cat | first }} </a>
+            </li>
         {% endfor %}
     </ul>
-
 </div>
+
+<div class="sidebar well">
+    {% include links-list.html %}
+</div>
+

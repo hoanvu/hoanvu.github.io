@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<h3>All posts in '{{ page.category }}'</h3>
+
+{% for post in site.categories[page.category] %}
+<div class="article">
+    <div class="well">
+        <h1><a href="{{ site.baseurl}}{{ post.url }}" class="post_title">{{ post.title }}</a> 
+            <span class="post_date"> - {{ post.date | date: "%b %-d, %Y" }}</span>
+        </h1>
+
+<!--         {% if site.comments and post.comments %}
+            {% if site.disqus != '' %}
+            <p class="author"><a href="{{ site.baseurl }}{{ post.url }}/#disqus_thread" data-disqus-identifier="{{ post.url | slugify }}">Comments</a></p>
+            {% elsif site.isso != '' %}
+            <p class="author"><a href="{{ site.baseurl }}{{ post.url }}{{ site.isso_suffix }}#isso-thread">Comments</a></p>
+            {% endif %}
+        {% endif %} -->
+
+
+        <div class="content">
+            {{ post.content | strip_html | truncate:210 }}
+            {% if post.content | size > 200 %}
+              &nbsp;&nbsp;&nbsp; <em><a href="{{ site.baseurl}}{{ post.url }}">Read more &raquo;</a></em>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endfor %}
+
