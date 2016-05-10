@@ -13,11 +13,18 @@
 
 <div class="sidebar well">
     <h1>Posts by Category</h1>
+        {% capture cats %}
+            {% for cat in site.categories %}    
+                <li><a href="{{ site.baseurl }}/category/{{cat | first }}/">{{ cat | first }}</a></li>
+            {% endfor %}
+        {% endcapture %}
+
+        {% assign sortedcats = cats | split: '   ' | sort %} 
+
     <ul>
-        {% for cat in site.categories %}
-            <li>
-                <a href="{{ site.baseurl }}/category/{{cat | first }}/"> {{ cat | first }} </a>
-            </li>
+        
+        {% for cat in sortedcats %}
+                {{ cat }}
         {% endfor %}
     </ul>
 </div>

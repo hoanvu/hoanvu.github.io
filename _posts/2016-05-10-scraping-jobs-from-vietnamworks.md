@@ -159,11 +159,11 @@ data.head(5)
 Output:
 
 ![output for first 5 jobs](https://raw.githubusercontent.com/hoanvu/hoanvu.github.io/master/images/posts/table1.JPG)
-
-DataFrame helps us to view, transform and visualize data very effectively. For example, you can get the overview of how many jobs out of 50 extracted jobs above are based in Hanoi, Ho Chi Minh, ...
 <br><br>
 
 #### Exploring Data
+DataFrame helps us to view, transform and visualize data very effectively. For example, you can get the overview of how many jobs out of 50 extracted jobs above are based in Hanoi, Ho Chi Minh, ... 
+
 To do this, we can use `matplotlib` and `seaborn` with a painless function as below:
 
 ```python
