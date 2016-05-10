@@ -35,6 +35,8 @@ RX bytes:0 (0.0 b) TX bytes:0 (0.0 b)
 Bây giờ mình tiến hành add thêm một card mạng eth1 vào server này từ VMWare workstation, lệnh ```ifconfig``` vẫn trả về như sau:
 
 ```
+[root@server2 ~]# ifconfig
+
 eth0 Link encap:Ethernet HWaddr 00:0C:29:B3:55:3A
 inet addr:192.168.0.106 Bcast:192.168.0.255 Mask:255.255.255.0
 inet6 addr: fe80::20c:29ff:feb3:553a/64 Scope:Link
