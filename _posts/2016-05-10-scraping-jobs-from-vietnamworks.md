@@ -158,7 +158,7 @@ data.head(5)
 
 Output:
 
-![output for first 5 jobs](https://hoanvu.github.io/images/posts/table1.jpg)
+![output for first 5 jobs](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/table1.JPG)
 
 DataFrame helps us to view, transform and visualize data very effectively. For example, you can get the overview of how many jobs out of 50 extracted jobs above are based in Hanoi, Ho Chi Minh, ...
 <br><br>
@@ -172,7 +172,7 @@ sns.countplot(y=job_locations, data=data)
 
 Output: 
 
-![exploring job data](https://hoanvu.github.io/images/posts/eda1.jpg)
+![exploring job data](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/eda1.JPG)
 
 So clearly, the vast majority number of jobs are based in Ho Chi Minh city.
 
