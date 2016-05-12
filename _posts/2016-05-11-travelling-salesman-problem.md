@@ -20,7 +20,7 @@ research and theoretical computer science.
 
 To get a better understanding, take a look at the following picture:
 
-![travelling salesman problem map](http://127.0.0.1:4000/images/posts/tsp_map.jpg)
+![travelling salesman problem map](https://raw.githubusercontent.com/hoanvu/hoanvu.github.io/master/images/posts/tsp_map.JPG)
 
 I drawed this map using `matplotlib` and `seaborn` with a dataset of locations taken from [this page](https://people.sc.fsu.edu/~jburkardt/datasets/tsp/tsp.html). I will describe the implementation later in this post.
 
@@ -122,7 +122,7 @@ The `cdist()` function from **Scipy** library computes the distance between 2 co
 
 Result looks like this, row and column indices are cities:
 
-![travelling salesman problem distance matrix](http://127.0.0.1:4000/images/posts/distance_matrix.jpg)
+![travelling salesman problem distance matrix](https://raw.githubusercontent.com/hoanvu/hoanvu.github.io/master/images/posts/distance_matrix.JPG)
 
 Now, with this table, I will write a function to find the shortest possible path from the origin to every other cities and back to the starting city itself:
 
@@ -210,11 +210,11 @@ while i < len(path) - 1:
 
 Note that I had to redraw the points because otherwise it just displays that path, without points. Let's take a look at the output:
 
-![travelling salesman problem solution 1](http://127.0.0.1:4000/images/posts/tsp_solution1.jpg)
+![travelling salesman problem solution 1](https://raw.githubusercontent.com/hoanvu/hoanvu.github.io/master/images/posts/tsp_solution1.JPG)
 <br><br>
 Nice! Let's see the output with different `origin = 7`:
 
-![travelling salesman problem solution 2](http://127.0.0.1:4000/images/posts/tsp_solution2.jpg)
+![travelling salesman problem solution 2](https://raw.githubusercontent.com/hoanvu/hoanvu.github.io/master/images/posts/tsp_solution2.JPG)
 <br><br>
 Note that because cities `city_2`, `city_9` and `city_7` are almost straight so it looks like the salesman has to go from `city_7` back to `city_9` twice, but in fact he's not.
 <br><br>
