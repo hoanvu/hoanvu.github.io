@@ -90,7 +90,7 @@ if request.method == 'POST':
 
 `request` cũng là một object của Flask, cho phép chúng ta truy cập vào dữ liệu trong request của user, bạn cũng cần phải import object này:
 
-```
+```python
 from flask import request, ...
 ```
 
@@ -189,7 +189,7 @@ Riêng phần này mình đã từng viết source code và giải thích chi ti
 + Thay vì lưu email nhận và gửi trong file, chúng ta sẽ lưu thông này như một tham số trong file <strong>config.cfg</strong>
 + Để gửi mail thông báo khi có server down, chúng ta sẽ phải thay đổi một chút trong hàm `index()`. Bởi vì mình dùng jQuery để refresh bảng chứa thông tin server 5s một lần, và dữ liệu trong bảng này được lấy từ hàm `index()`, nên sau mỗi 5s khi có server down hệ thống sẽ phải gửi email thông báo ngay lúc đó. Trong hàm `index()` các bạn hãy thêm đoạn code sau:
 
-```
+```python
 for server in serverList:
     if server['status'] == 1:
         sendEmail(server['serverName'])

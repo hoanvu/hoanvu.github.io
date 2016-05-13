@@ -350,7 +350,7 @@ Như đề cập ở phía trên, mỗi kết nối tới database cho một tru
 
 Để sử dụng `g`, bạn cũng phải import từ Flask:
 
-```
+```python
 from flask import g, ...
 ```
 
