@@ -2,7 +2,7 @@
 layout: post
 title: "CentOS không nhận card mạng vừa add trên VMWare"
 date: 2013-07-17 11:58:20 +0700
-categories: system_admin
+categories: system_admin linux
 tags: system_admin network centos
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Cài đặt MongoDB 2.4.4 trên CentOS 6.3"
 date: 2013-06-13 11:58:20 +0700
-categories: system_admin
+categories: system_admin linux
 tags: system_admin mongodb
 ---
 
