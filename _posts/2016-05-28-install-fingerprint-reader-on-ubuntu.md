@@ -6,7 +6,7 @@ categories: linux
 tags: fingerprint_reader linux ubuntu
 ---
 
-Today I saw a colleague using Fingerprint reader to login to his Ubuntu 14.04. I was also impressed when he did some installation using `apt-get` or `pip install`, the system asked him to swipe his finger across the fingerprint reader in order to proceed with the installation instead of entering password as normal. Even though I already used this technology a while ago while I was using Windows 7, and the fact is that the convenient of this authentication method used to make me forget my password, but I couldn't keep myself from being fascinated with the cool message. So I decided to figure it out to install it on my system, and it's quite easy.
+Today I saw a colleague using Fingerprint reader to login to his Ubuntu 14.04. I was also impressed when he did some installation using `apt-get` or `pip install`, the system asked him to swipe his finger across the fingerprint reader in order to proceed with the installation instead of entering password as normal. Even though I already used this technology a while ago with Windows 7, and the fact is that the convenient of this authentication method used to make me forget my password, but I couldn't keep myself from being fascinated with the cool message. So I decided to figure it out to install it on my system, and it's quite easy.
 
 You might follow these simple steps to get it working. I'm using Dell Vostro 3560, so there's probability that it may be different comparing to your case.
 <br><br>
