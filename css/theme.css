@@ -87,3 +87,8 @@ img {
     padding-left: 30px;
     padding-top: 8px;
 }
+
+.resources-title {
+    color: blue;
+    font-weight: bold;
+}
