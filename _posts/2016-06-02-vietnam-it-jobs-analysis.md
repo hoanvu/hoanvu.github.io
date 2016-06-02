@@ -21,6 +21,7 @@ This post will focus on scaping data for IT jobs, but you can change the base UR
 
 If you do not have those packages installed on your system, please do so before continue:
 
+- Python 2.7
 - beautifulsoup4
 - matplotlib
 - seaborn
