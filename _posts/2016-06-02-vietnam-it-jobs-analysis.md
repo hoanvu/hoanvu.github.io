@@ -252,6 +252,7 @@ Nice, seems that our data is not very **clean**, but it says that our code until
 At first I planned to clean this dataset a little bit more, but then I realize it would be better if I keep it this way and transform each column based on the information I need. If you read this, feel free to take the dataset and tweak it the way you want.
 
 We will try to answer few questions as we go. 
+<br><br>
 
 #### First, what is the general status of Vietnam job market?
 
@@ -308,7 +309,7 @@ sns.countplot(y=new_cities)
 
 
 
-![png](vietnamworks_job_analysis_files/vietnamworks_job_analysis_17_1.png)
+![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/jobs_by_city.png?raw=true)
 <br><br>
 
 #### What's the percentage?
@@ -354,7 +355,7 @@ sns.countplot(x='position', data=jobs)
 
 
 
-![png](vietnamworks_job_analysis_files/vietnamworks_job_analysis_21_1.png)
+![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/jobs_by_position.png?raw=true)
 
 
 It's obvious that **Specialist** position is the hottest job. 
@@ -415,7 +416,7 @@ skills.iloc[0].sort_values(ascending=False).plot(kind='barh')
 
 
 
-![png](vietnamworks_job_analysis_files/vietnamworks_job_analysis_23_1.png)
+![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/jobs_by_skill.png?raw=true)
 
 
 This might not be 100% percent accurate, but skill, we know that Java is always the dominated programming language for a very long time.
