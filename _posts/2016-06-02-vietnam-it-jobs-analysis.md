@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vietnam IT Jobs Analysis"
-date: 2016-05-28 10:07:30 +0700
+date: 2016-06-02 17:22:30 +0700
 categories: data_mining visualization
 tags: data_mining visualization matplotlib pandas
 ---
