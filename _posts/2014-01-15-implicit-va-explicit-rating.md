@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Implicit và Explicit rating"
+title: "(VN) Implicit và Explicit rating"
 date: 2014-01-15 11:19:20 +0700
 categories: data_mining
 tags: data_mining implicit_rating explicit_rating

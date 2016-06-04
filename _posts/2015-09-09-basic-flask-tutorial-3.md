@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Basic Flask Tutorial - 3"
+title: "(VN) Basic Flask Tutorial - 3"
 date: 2015-09-09 22:22:44 +0700
 categories: python flask
 tags: python web flask tutorial

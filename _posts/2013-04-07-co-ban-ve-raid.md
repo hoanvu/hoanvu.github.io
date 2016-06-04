@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cơ bản về RAID"
+title: "(VN) Cơ bản về RAID"
 date: 2013-04-07 07:20:20 +0700
 categories: system_admin
 tags: system_admin raid

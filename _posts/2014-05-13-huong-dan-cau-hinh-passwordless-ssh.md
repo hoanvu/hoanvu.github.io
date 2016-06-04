@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hướng dẫn cấu hình passwordless SSH"
+title: "(VN) Hướng dẫn cấu hình passwordless SSH"
 date: 2014-05-13 10:20:20 +0700
 categories: system_admin linux
 tags: system_admin passwordless_ssh

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Cài đặt MongoDB 2.4.4 trên CentOS 6.3"
+title: "Install MongoDB 2.4.4 on CentOS 6.3"
 date: 2013-06-13 11:58:20 +0700
 categories: system_admin linux
 tags: system_admin mongodb
 ---
 
-Bài post này mình sẽ hướng dẫn các bạn cài đặt MongoDB trên CentOS:
+In this post I will guide you to install MongoDB 2.4.4 on CentOS 6.3:
 <br><br>
 
 #### 1. Download MongoDB source
@@ -16,11 +16,11 @@ http://www.mongodb.org/downloads
 ```
 <br>
 
-#### 2. Lưu file source tại /opt/setup
-Các bạn có thể lưu ở bất kì đâu tùy ý, nhưng cần ```cd``` đến đúng thư mục đó trong bước 3.
+#### 2. Save the downloaded file at /opt/setup
+It's not compulsory that you have to save it at `/opt/setup`, but then you need to `cd` to the exact folder in step 3
 <br><br>
 
-#### 3. Giải nén
+#### 3. Extract the installation files
 
 ```
 cd /opt/setup
@@ -28,7 +28,7 @@ tar -xvzf mongodb-linux-x86_64-2.4.4.tgz
 ```
 <br>
 
-#### 4. Copy folder vừa giải nén vào /opt (là HOME của MongoDB)
+#### 4. Move the extracted folder to /opt/ (it's HOME folder for MongoDB)
 
 ```
 cd /opt/setup
@@ -36,7 +36,7 @@ mv mongodb-linux-x86_64-2.4.4 /opt/mongodb
 ```
 <br>
 
-#### 5. Tạo các folder cần thiết như data, log để chạy MongoDB
+#### 5. Create necessary directories like data, log for MongoDB
 
 ```
 cd /opt/mongodb
@@ -44,13 +44,13 @@ mkdir data logs
 ```
 <br>
 
-#### 6. Tạo file config và thêm nội dung vào file config
+#### 6. Create a config file and add configuration to it
 
 ```
 touch /opt/mongodb/mongodb.conf
 ```
 
-Thêm các nội dung sau:
+Add the following contents:
 
 ```
 logpath = /opt/mongodb/logs/mongodb.log
@@ -61,7 +61,7 @@ verbose = true
 rest = true
 ```
 
-Trong đó: 
+Where: 
 
 ```
 logpath: file chứa MongoDB log
@@ -73,7 +73,7 @@ rest: enable giao diện chứa thông tin cơ bản & lệnh của MongoDB, int
 ```
 <br>
 
-#### 7. Tạo user & group mongodb (chạy với user thường)
+#### 7. Create user and group for running MongoDB (run with non-root user)
 
 ```
 groupadd mongodb
@@ -81,21 +81,21 @@ useradd -g mongodb mongodb
 ```
 <br>
 
-#### 8. Change quyền thư mục chứa MongoDB:
+#### 8. Change the permission for MongoDB folder
 
 ```
 chown -R mongodb:mongodb /opt/mongodb
 ```
 <br>
 
-#### 9. Chạy thôi
+#### 9. Let's run
 
 ```bash
 su - mongodb
 /opt/mongodb/bin/mongod --fork --config /opt/mongodb/mongodb.conf
 ```
 
-Trong đó:
+Where:
 
 ```
 --fork: chạy MongoDB như 1 daemon process
