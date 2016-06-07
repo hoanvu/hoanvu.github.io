@@ -337,6 +337,7 @@ population.info()
 At the end of collection steps, we had a DataFrame named `population` that contains all data we crawled from 3 tables inside the Wikipedia page. But by taking a glance at the DataFrame, we know that there are too many junk data (real-world data always is) that need to be removed. 
 
 Here are few things that we will do to make our data cleaner for analysis:
+
 - There are 3 columns which have same name (`Country (or dependent territory)`) and contains country names, which is redundant. We will remove 2 of them
 - Make country name column to be the index for the DataFrame. This is very useful for the analysis process
 - All columns named `%` describe how population changes compared to the last 5 years. I don't think this is necessary for our analysis, so just remove them. In your case, if you think this might bring some interesting insights, feel free to keep them.
