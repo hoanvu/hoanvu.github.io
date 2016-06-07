@@ -443,7 +443,7 @@ ax.set(xlabel='Year', ylabel='# People (billions)',
 
 ![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/world_population_analysis_files/world_population_analysis_15_2.png?raw=true)
 
-
+<br>
 The following graph shows the world population tendency in a better way:
 
 
@@ -460,6 +460,7 @@ plt.title('World population in general from 1950 - 2050')
 
 ![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/world_population_analysis_files/world_population_analysis_17_1.png?raw=true)
 
+<br>
 
 #### What are 5 most populous countries from 1950 to 2050?
 
@@ -502,6 +503,8 @@ plot_5_most_populous(population, '2050')
 ![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/world_population_analysis_files/world_population_analysis_19_2.png?raw=true)
 
 
+<br>
+
 #### How about Vietnam, Laos, Thailand and Campuchia?
 
 - Vietnam is the most populous country
@@ -523,6 +526,7 @@ plt.legend(loc='best')
 
 ![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/world_population_analysis_files/world_population_analysis_21_1.png?raw=true)
 
+<br>
 
 #### How many countries in which the population is decreasing?
 
@@ -545,5 +549,6 @@ plt.legend(loc='best')
 
 ![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/world_population_analysis_files/world_population_analysis_23_1.png?raw=true)
 
+<br>
 
 **Look at China**! What are they planning to do to decrease their population to such an extent?
