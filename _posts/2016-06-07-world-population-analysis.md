@@ -441,7 +441,7 @@ ax.set(xlabel='Year', ylabel='# People (billions)',
     World population in 2050: 9.41 billions.
 
 
-![png](images/posts/world_population_analysis_files/world_population_analysis_15_2.png)
+![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/world_population_analysis_files/world_population_analysis_15_2.png?raw=true)
 
 
 The following graph shows the world population tendency in a better way:
@@ -458,7 +458,7 @@ plt.title('World population in general from 1950 - 2050')
 ```
 
 
-![png](images/posts/world_population_analysis_files/world_population_analysis_17_1.png)
+![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/world_population_analysis_files/world_population_analysis_17_1.png?raw=true)
 
 
 #### What are 5 most populous countries from 1950 to 2050?
@@ -491,15 +491,15 @@ plot_5_most_populous(population, '2050')
 ```
 
 
-![png](images/posts/world_population_analysis_files/world_population_analysis_19_0.png)
+![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/world_population_analysis_files/world_population_analysis_19_0.png?raw=true)
 
 
 
-![png](images/posts/world_population_analysis_files/world_population_analysis_19_1.png)
+![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/world_population_analysis_files/world_population_analysis_19_1.png?raw=true)
 
 
 
-![png](images/posts/world_population_analysis_files/world_population_analysis_19_2.png)
+![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/world_population_analysis_files/world_population_analysis_19_2.png?raw=true)
 
 
 #### How about Vietnam, Laos, Thailand and Campuchia?
@@ -521,7 +521,7 @@ plt.legend(loc='best')
 ```
 
 
-![png](images/posts/world_population_analysis_files/world_population_analysis_21_1.png)
+![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/world_population_analysis_files/world_population_analysis_21_1.png?raw=true)
 
 
 #### How many countries in which the population is decreasing?
@@ -543,7 +543,7 @@ plt.legend(loc='best')
 
 
 
-![png](images/posts/world_population_analysis_files/world_population_analysis_23_1.png)
+![png](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/world_population_analysis_files/world_population_analysis_23_1.png?raw=true)
 
 
 **Look at China**! What are they planning to do to decrease their population to such an extent?
