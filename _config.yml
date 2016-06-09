@@ -39,3 +39,4 @@ gems: ['jekyll-paginate', 'jekyll-gist']
 exclude: ['README.md', 'LICENSE']
 
 include: ['_pages']
+google_analytics: UA-56702470-2
