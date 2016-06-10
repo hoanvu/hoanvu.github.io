@@ -17,6 +17,8 @@ With my free time I decided to do some analysis about job market for the last fe
 
 This post will focus on scaping data for IT jobs, but you can change the base URL to work with any other kind of job you want. Just go to Vietnamworks, use the website's filter to select the job categories you want to play with, and get the base URL and assign it to the `base_url` variable in `get_all_urls()` method.
 
+**Note**: You can view this blog article [directly in IPython notebook format here](http://nbviewer.jupyter.org/github/hoanvu/data_science_notebooks/blob/master/vietnamworks_job_analysis.ipynb){:target="_blank"}.
+
 ### Package requirements:
 
 If you do not have those packages installed on your system, please do so before continue:

@@ -9,7 +9,10 @@ tags: data_mining visualization matplotlib pandas python
 
 In this post, we will crawl world population data from Wikipedia and do some analysis. [The data is taken from this page](https://en.wikipedia.org/wiki/List_of_countries_by_past_and_future_population) provides us the population detail for every country on Earth every 5 years, from 1955 upto 2050. Yes! It also predicts what is the status of world population in the future. Please read the article to understand how the demographic grow is calculated.
 
-**Note**: this is also an excercise from CS109 course by Havard University.
+**Note**: 
+
+- This is also an excercise from CS109 course by Havard University.
+- You can view this blog article [directly in IPython notebook format here](http://nbviewer.jupyter.org/github/hoanvu/data_science_notebooks/blob/master/world_population_analysis.ipynb){:target="_blank"}.
 
 ### Process
 As any data analysis task, we will go through following steps:
