@@ -8,4 +8,4 @@ tags: python machine_learning bag_of_words random_forest movie_reviews
 
 This post is my practical code that follow the Kaggle tutorial about Bag of Words model for Natural Language Processing. Please refer to the following link to read the notebook.
 
-http://nbviewer.jupyter.org/github/hoanvu/data_science_notebooks/blob/master/movie_reviews_bag_of_words.ipynb
+[Click here to view the notebook](http://nbviewer.jupyter.org/github/hoanvu/data_science_notebooks/blob/master/movie_reviews_bag_of_words.ipynb{:target="_blank"}
