@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "World Population Analysis"
+title: "Kaggle Movie Review - Sentimental Analysis using Bag of Words"
 date: 2016-06-15 11:51:30 +0700
 categories: machine_learning
 tags: python machine_learning bag_of_words random_forest movie_reviews
