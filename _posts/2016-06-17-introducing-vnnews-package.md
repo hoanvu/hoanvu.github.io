@@ -24,6 +24,7 @@ For VNExpress, there are several types of pages that have different DOM structur
 - A live page with images and very few texts: [http://vnexpress.net/tin-tuc/thoi-su/le-don-tong-thong-my-obama-tai-phu-chu-tich-3407393.html](http://vnexpress.net/tin-tuc/thoi-su/le-don-tong-thong-my-obama-tai-phu-chu-tich-3407393.html) 
 - An interactive page with only images, no text: [http://vnexpress.net/interactive/2016/ket-qua-bau-cu/](http://vnexpress.net/interactive/2016/ket-qua-bau-cu/)
 - An interactive page with images and some texts: [http://vnexpress.net/interactive/2016/dai-bieu-quoc-hoi](http://vnexpress.net/interactive/2016/dai-bieu-quoc-hoi)
+- A Q&A page, people go there asking questions and waiting for answer: [http://vnexpress.net/tin-tuc/oto-xe-may/tu-van/tu-dam-xe-co-duoc-bao-hiem-boi-thuong-3424310.html](http://vnexpress.net/tin-tuc/oto-xe-may/tu-van/tu-dam-xe-co-duoc-bao-hiem-boi-thuong-3424310.html)
 
 It's necessary to write code to handle all these types of DOM structures.
 <br><br>
