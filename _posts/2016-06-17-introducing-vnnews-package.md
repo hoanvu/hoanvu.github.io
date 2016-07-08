@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing vnnews package"
 date: 2016-06-17 11:51:30 +0700
-categories: python data_mining
+categories: python data_mining programming
 tags: python
 ---
 

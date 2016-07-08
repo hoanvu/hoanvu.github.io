@@ -2,7 +2,7 @@
 layout: post
 title: "(VN) Basic Flask Tutorial - 4"
 date: 2015-09-10 21:00:23 +0700
-categories: python flask
+categories: python flask programming
 tags: python web flask tutorial
 ---
 
