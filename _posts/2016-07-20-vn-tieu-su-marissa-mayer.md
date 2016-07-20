@@ -48,7 +48,7 @@ Trong tháng Sáu, Amoroso đã giúp Levinsohn tuyển dụng một nhân viên
 
 Levinsohn còn có thêm một lí do khác để nuôi hi vọng của mình: gần như trong suốt hai tháng qua, ngày nào Levinsohn cũng nói chuyện với hai giám đốc điều hành quan trọng nhất của Yahoo là Dan Loeb và Michael Wolf. Mặc dù sự ủng hộ từ phía Amoroso là rất quan trọng, nhưng có lẽ có được sự ủng hộ từ Loeb còn quan trọng hơn nhiều. Loeb đang điều hành một quỹ đầu tư sở hữu hơn 5% cổ phần của Yahoo tên là ThirdPoint, và chính ông đã buộc vị CEO của Yahoo trước đó phải từ chức. Wolf cũng là một đồng minh quan trọng mà Levinsohn cần phải có. Worlf là nguyên chủ tịch của MTV, người đang tư vấn mảng đầu tư truyền thông của ThirdPoint và sau đó được Loeb mời về ngồi vào một ghế trong Hội đồng quản trị của Yahoo để bắt tay vào tìm kiếm một CEO mới cho công ty.
    
-Levinsohn bắt đầu bài thuyết trình của mình. Tất cả mọi người đều mong đợi một bài thuyết trình tuyệt vời vì ai cũng biết ông ta sẽ chuẩn bị có những thay đổi lớn lao trong hướng đi của Yahoo.
+Levinsohn bắt đầu bài thuyết trình của mình. Tất cả mọi người đều mong đợi một bài thuyết trình tuyệt vời vì ai cũng biết ông ta sẽ chuẩn bị có những thay đổi lớn lao trong hướng đi sắp t của Yahoo.
 
 Ông ta muốn Yahoo ngừng việc cạnh tranh trong mảng công nghệ với các gã khổng lồ khác như Google hay Microsoft và tập trung hoàn toàn vào thị trường truyền thông và nội dung số như Disney, Time Warner và News Corporation. Trong quá trình tiếp quản của mình, Levinsohn muốn bán hoặc giải thể một vài mảng kinh doanh của Yahoo. Ông ta giải thích với bước đi này, số lượng nhân viên của Yahoo sẽ giảm đi 10,000 người và tăng doanh thu cũng như lợi nhuận trước thuế lên khoảng 50%.
 
