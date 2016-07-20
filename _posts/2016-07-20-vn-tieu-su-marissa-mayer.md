@@ -22,7 +22,7 @@ Vào buổi sáng thứ Năm, ngày 12 tháng 7 năm 2012, CEO tạm quyền c�
  
 Ông ta chỉ cần vượt qua một thử thách cuối cùng.
 
-Thử thách này là cuộc họp với Hội đồng quản trị, được tổ chức cùng ngày hôm đó trong một căn phòng tại trụ sở chính của Yahoo ở Sunnyvale, California. Đó là một căn phòng rất rộng, với chiếc bàn hình móng ngựa rất lớn và rất nhiều màn hình được gắn trên tường.
+Thử thách này là cuộc họp với Hội đồng quản trị, được tổ chức cùng ngày hôm đó trong một căn phòng tại trụ sở chính của Yahoo ở Sunnyvale, California. Đó là một căn phòng rất rộng, với chiếc bàn hình móng ngựa rất lớn ở ngay chính g và rất nhiều màn hình được gắn trên tường.
 
 Trong buổi họp này, Levinsohn sẽ phải trình bày cho hội đồng quản trị kế hoạch chi tiết mà ông ta đã phác thảo ra cho con thuyền Yahoo, nếu như ông ta ngồi vào vị trí này.
  
