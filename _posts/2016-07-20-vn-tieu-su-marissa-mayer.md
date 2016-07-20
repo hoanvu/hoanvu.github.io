@@ -5,8 +5,6 @@ date: 2016-07-20 00:20:10 +0700
 categories: biography
 tags: marissa_mayer biography
 ---
-Dịch bởi: **Hoan Hỉ**
-
 Bài này mình đọc cũng khá lâu rồi, cảm giác lần đầu đọc là như đang đọc một câu chuyện trinh thám vậy, nhập tâm tới mức đó. Hôm nay gặp lại nó trên Internet. Quyết định dịch lại để chia sẻ. Rất mong mọi người cũng có cảm giác giống mình.
 
 Bài viết bắt đầu vào năm 2012, khi Hội đồng quản trị của Yahoo đang tìm kiếm một CEO mới để lèo lái con thuyền Yahoo đang rơi vào khủng hoảng. Lúc này Ross Levinsohn đang là CEO tạm quyền và gần như chắc chắn đã có được chiếc ghế này. Tuy nhiên bất ngờ xảy ra và người thay thế ông ta là người phụ nữ quyền lực của Silicon Valley.
@@ -157,3 +155,5 @@ Nhưng rồi đột nhiên những đồng nghiệp khác được thăng tiến
 Việc Mayer trở thành người lãnh đạo quyền lực nhất tại Yahoo làm kinh ngạc hầu hết tất cả - bao gồm cả những người đã khuyên cô ấy nên nhận công việc này. Làm cách nào mà Hội đồng quản trị của Yahoo đưa ra quyết định này?
 
 Và câu hỏi lớn nhất là: **Liệu cô ấy có thể cứu con thuyền đắm Yahoo hay không?**
+
+Dịch bởi: **Hoan Hỉ**
