@@ -126,7 +126,7 @@ Giờ đây, 38 tuổi, cô ấy là một người vợ, một người mẹ, m
 
 **Với khối tài sản trị giá ít nhất 300 triệu đô la, cô ấy không hề do dự trong việc tỏ ra là mình giàu có. Steve Jobs có thể sống trong một căn hộ nhỏ ở vùng ngoại ô, thì Marissa Mayer lại sống trong một tòa penthouse xa hoa ở khách sạn Four Season tọa lạc tại thành phố New York.**
 
-**Trong khi những CEO của công ty đối thủ như Mark Zukerberg của Facebook hay Larry Page của Google có thể đi dép lê, áo phông, thì Mayer luôn mặc giống như một diễn viên điện ảnh trên thảm đỏ Oscar.**
+**Trong khi những CEO của công ty đối thủ như Mark Zukerberg của Facebook hay Larry Page của Google có thể đi dép lê, mặc áo phông, thì Mayer luôn mặc giống như một diễn viên điện ảnh trên thảm đỏ Oscar.**
 
 **Mayer tự nhận mình là một geek (một từ chỉ những người mê công nghệ, tính tình và trông dị hợm) nhưng lại trông không giống như vậy. Với một mái tóc vàng, đôi mắt xanh biếc và phong cách hào nhoáng, cô ấy trông chẳng khác nào một diễn viên Hollywood.**
 
