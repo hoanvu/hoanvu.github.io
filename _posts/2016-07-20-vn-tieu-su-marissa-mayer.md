@@ -56,12 +56,6 @@ Trên thực tế, Levinsohn tuyên bố rằng ông ta và đội ngũ quản l
 
 Levinsohn nói với Hội đồng quản trị rằng dưới sự chỉ đạo của mình, Heckman đã bắt đầu đàm phán với Microsoft để đổi mảng tìm kiếm của Yahoo với cổng thông tin của công ty này, MSN.com cộng thêm một lượng lớn tiền mặt. Levinsohn và Heckman cũng đã bắt đầu đàm phán với Henrique De Castro, một điều hành cấp cao của Google để lấy lại một số mảng quảng cáo của Yahoo. Ngoài ra còn một số trình bày của ông ta liên quan tới việc chuyển đổi một số mảng kinh doanh công nghệ quảng cáo cho doanh nghiệp thành các mảng liên doanh bao gồm cả công ty startup chuyên về quảng cáo tại New York là AppNexus.
 
-<br>
-
-![Dan Loeb](http://static4.businessinsider.com/image/500576636bb3f71b28000007-620-465/danloeb-5.jpg)
-<center>Dan Loeb</center>
-<br>
-
 **Cũng chính trong thời điểm trình bày kế hoạch của mình, Levinsohn bắt đầu nhận ra rằng ông ta đang ở xa chiếc ghế CEO hơn bao giờ hết.**
 
 Những người khác trong phòng cũng cảm nhận được điều này.
@@ -79,6 +73,12 @@ Câu hỏi cuối cùng mà các thành viên Hội đồng quản trị muốn 
 Đây thực sự là dấu hiệu tồi tệ cho Levinsohn.
 
 Nhưng thậm chí những chỉ trích của Wolf và Wilson về các thương vụ với Microsoft chưa phải là thứ đập tan hi vọng của Levinsohn, mà chính là thái độ của Loeb trong buổi họp.
+ 
+<br>
+
+![Dan Loeb](http://static4.businessinsider.com/image/500576636bb3f71b28000007-620-465/danloeb-5.jpg)
+<center>Dan Loeb</center>
+<br>
  
 Loeb là một kiểu mẫu doanh nhân điển trai lịch lãm của Wall Street. Anh ta đến từ Nam California và có kiểu đầu salt-and-pepper (tóc ngắn và có 2 màu sáng tối) đặc trưng. 
 
