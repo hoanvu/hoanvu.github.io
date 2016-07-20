@@ -124,7 +124,7 @@ Sau khi tin này gây bão truyền thông, Levinsohn đã công nhận với b�
 
 Giờ đây, 38 tuổi, cô ấy là một người vợ, một người mẹ, một kĩ sư, và là CEO của một công ty trị giá 30 tỉ đô. Cô ấy là một người phụ nữ thành công trong ngành công nghiệp mà đàn ông chiếm đa số. Trong một thế giới mà các tập đoàn chỉ luôn phục vụ cổ đông đầu tiên, thì cô ấy coi trải nghiệm người dùng là ưu tiên số một.
 
-**Với khối tài sản trị giá ít nhất 300 triệu đô la, cô ấy không hề do dự trong việc tỏ ra là mình giàu có. Steve Jobs có thể sống trong một căn hộ nhỏ ở vùng ngoại ô, thì Marissa Mayer lại sống trong một tòa penthouse ở khách sạn Four Season tọa lạc tại thành phố New York xa hoa.**
+**Với khối tài sản trị giá ít nhất 300 triệu đô la, cô ấy không hề do dự trong việc tỏ ra là mình giàu có. Steve Jobs có thể sống trong một căn hộ nhỏ ở vùng ngoại ô, thì Marissa Mayer lại sống trong một tòa penthouse xa hoa ở khách sạn Four Season tọa lạc tại thành phố New York.**
 
 **Trong khi những CEO của công ty đối thủ như Mark Zukerberg của Facebook hay Larry Page của Google có thể đi dép lê, áo phông, thì Mayer luôn mặc giống như một diễn viên điện ảnh trên thảm đỏ Oscar.**
 
