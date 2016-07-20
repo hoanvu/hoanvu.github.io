@@ -7,7 +7,7 @@ tags: marissa_mayer biography
 ---
 Bài này mình đọc cũng khá lâu rồi, cảm giác lần đầu đọc là như đang đọc một câu chuyện trinh thám vậy, nhập tâm tới mức đó. Hôm nay gặp lại nó trên Internet. Quyết định dịch lại để chia sẻ. Rất mong mọi người cũng có cảm giác giống mình.
 
-Bài viết bắt đầu vào năm 2012, khi Hội đồng quản trị của Yahoo đang tìm kiếm một CEO mới để lèo lái con thuyền Yahoo đang rơi vào khủng hoảng. Lúc này Ross Levinsohn đang là CEO tạm quyền và gần như chắc chắn đã có được chiếc ghế này. Tuy nhiên bất ngờ xảy ra và người thay thế ông ta là người phụ nữ quyền lực của Silicon Valley.
+Bài viết bắt đầu bằng sự kiện năm 2012, khi Hội đồng quản trị của Yahoo đang tìm kiếm một CEO mới để lèo lái con thuyền Yahoo đang rơi vào khủng hoảng. Lúc này Ross Levinsohn đang là CEO tạm quyền và gần như chắc chắn đã có được chiếc ghế này. Tuy nhiên bất ngờ xảy ra và người thay thế ông ta là người phụ nữ quyền lực của Silicon Valley.
 
 Các bạn có thể đọc bản gốc ở đây: http://www.businessinsider.com/marissa-mayer-biography-2013-8
 
