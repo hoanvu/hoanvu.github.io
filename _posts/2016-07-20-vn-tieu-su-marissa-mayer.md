@@ -104,7 +104,7 @@ Người bạn này hỏi: "**Anh có biết là Marissa Mayer đã phỏng vấ
 
 Levinsohn ngay lập tức hiểu tất cả mọi chuyện.
 
-Levinsohn biết rằng ai sẽ trở thành CEO tiếp theo của Yahoo.
+Ông ta biết chắc ch rằng ai sẽ trở thành CEO tiếp theo của Yahoo.
 
 Và những người khác cũng sớm biết ngay sau đó.
 
