@@ -114,7 +114,7 @@ Các thành viên trong Hội đồng quản trị có lẽ đã thực sự đ�
 
 Sau khi tin này gây bão truyền thông, Levinsohn đã công nhận với bạn mình rằng ông ta đã hơi thất vọng. Ông ta thực sự muốn có được công việc này và nghĩ chắc chắn mình sẽ làm rất tốt. Ông ta cũng cảm thấy một chút tồi tệ cho đội ngũ điều hành mà mình đã cất công tuyển chọn vì giờ họ sẽ phải báo cáo lại cho một vị lãnh đạo xa lạ.
 
-**Nhưng Levinsohn cũng không có gì phải hối tiếc, bởi vì người chiến thắng  chính là một biểu tượng.**
+**Nhưng Levinsohn cũng không có gì phải hối tiếc, bởi vì người chiến thắng ông chính là một biểu tượng.**
 
 **Thực sự không có ai trên thế giới này giống với Marissa Mayer**.
 <br><br>
