@@ -142,7 +142,7 @@ Nhưng sau khi Mayer lên nắm quyền một năm, giá cổ phiếu của côn
 
 #### Vẫn còn những câu hỏi
 
-Hầu hết những CEO với tầm vóc ngang hàng với Mayer - những người đang điều hành các công ty nhiều tỉ đô như Yahoo - đều là những người hướng ngoại, có khả năng ngoại giao tốt - họ là những người có thể đã trở thành các nhà chính trị gia nếu như không chạy theo tiếng gọi của thế giới kinh doanh và đồng tiền. Chính trị gia. Nhà ngoại giao. Người truyền cảm hứng. Mayer không phải loại người này. Tất cả bạn bè - từ thời ấu thơ đến những người làm việc với cô ấy ngày đầu tiên tại Yahoo - đều miêu tả người phụ nữ này là một người hay xấu hổ và khá kì dị trong quan h xã hội.
+Hầu hết những CEO với tầm vóc ngang hàng với Mayer - những người đang điều hành các công ty nhiều tỉ đô như Yahoo - đều là những người hướng ngoại, có khả năng ngoại giao tốt - họ là những người có thể đã trở thành các nhà chính trị gia nếu như không chạy theo tiếng gọi của thế giới kinh doanh và đồng tiền. Chính trị gia. Nhà ngoại giao. Người truyền cảm hứng. Mayer không phải loại người này. Tất cả bạn bè - từ thời ấu thơ đến những người làm việc với cô ấy ngày đầu tiên tại Yahoo - đều miêu tả người phụ nữ này là một người hay xấu hổ và khá kì dị trong quan hệ xã hội.
 
 Làm cách nào mà cô ấy có thể vượt qua trở ngại to lớn này để thành công như ngày hôm nay?
 
