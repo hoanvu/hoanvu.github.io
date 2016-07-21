@@ -128,7 +128,7 @@ Giờ đây, 38 tuổi, cô ấy là một người vợ, một người mẹ, m
 
 **Trong khi những CEO của công ty đối thủ như Mark Zukerberg của Facebook hay Larry Page của Google có thể đi dép lê, mặc áo phông, thì Mayer luôn mặc giống như một diễn viên điện ảnh trên thảm đỏ Oscar.**
 
-**Mayer tự nhận mình là một geek (một từ chỉ những người mê công nghệ, tính tình và trông dị hợm) nhưng lại trông không giống như vậy. Với một mái tóc vàng, đôi mắt xanh biếc và phong cách hào nhoáng, cô ấy trông chẳng khác nào một diễn viên Hollywood.**
+**Mayer tự nhận mình là một geek (một từ chỉ những người mê công nghệ, tính tình cũng như có vẻ ngoài dị hợm) nhưng lại trông không giống như vậy. Với một mái tóc vàng, đôi mắt xanh biếc và phong cách hào nhoáng, cô ấy trông chẳng khác nào một diễn viên Hollywood.**
 
 **Trẻ trung, nhiều quyền lực, giàu có và thông minh, Mayer là hình mẫu lí tưởng của hàng triệu phụ nữ.** Mặc dù vậy, không giống như giám đốc điều hành cấp cao của Facebook, Sheryl Sandberg, cô ấy không tự nhận mình là người bảo vệ nữ quyền. Cô ấy thậm chí tức giận với những người mẹ phải làm việc trên khắp thế giới và hủy luôn chính sách cho phép nhân viên làm việc từ nhà.
 
