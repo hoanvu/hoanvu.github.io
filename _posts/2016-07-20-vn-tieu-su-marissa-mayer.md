@@ -108,11 +108,11 @@ Levinsohn ngay lập tức hiểu tất cả mọi chuyện.
 
 Và những người khác cũng sớm biết ngay sau đó.
 
-Vào ngày thứ Hai, 16/7, bốn ngày sau cuộc họp với Hội đồng quản trị của Levinsohn, Yahoo đã công bố chính thức: Marissa Mayer, người-phụ-nữ-37-tuổi, sẽ trở thành CEO mới của Yahoo.
+Vào ngày thứ Hai, 16/7, bốn ngày sau cuộc họp với Hội đồng quản trị của Levinsohn, Yahoo đã công bố chính thức: **Marissa Mayer, người-phụ-nữ-37-tuổi, sẽ trở thành CEO mới của Yahoo**.
 
 Các thành viên trong Hội đồng quản trị có lẽ đã thực sự đưa ra quyết định này trước khi Levinsohn bước vào căn phòng ngày hôm đó để trình bày kế hoạch của mình cho Yahoo.
 
-Sau khi tin này gây bão truyền thông, Levinsohn đã công nhận với bạn mình rằng ông ta đã hơi thất vọng. Ông ta thực sự muốn có được công việc này và nghĩ chắc chắn mình sẽ làm rất tốt. Ông ta cũng cảm thấy một chút tồi tệ cho đội ngũ điều hành mà mình đã cất công tuyển chọn vì giờ họ sẽ phải báo cáo lại cho một vị lãnh đạo xa lạ.
+Sau khi tin này gây bão truyền thông, Levinsohn đã công nhận với bạn mình rằng ông ta đã hơi thất vọng. Ông ta thực sự muốn có được công việc này và nghĩ chắc chắn mình sẽ làm rất tốt. Ông cũng cảm thấy một chút tồi tệ cho đội ngũ điều hành mà mình đã cất công tuyển chọn vì giờ họ sẽ phải báo cáo lại cho một vị lãnh đạo xa lạ.
 
 **Nhưng Levinsohn cũng không có gì phải hối tiếc, bởi vì người chiến thắng ông chính là một biểu tượng.**
 
