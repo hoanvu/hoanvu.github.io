@@ -44,17 +44,17 @@ Họ có lí do để tin tưởng như vậy. Trong suốt 2 tháng trước đ
 
 Đây là điều mà Amoroso đã nói riêng với Levinsohn. Ông ta cũng đã công bố tin này với toàn bộ nhân viên của Yahoo trong cuộc họp toàn công ty tháng Năm. Ông ta thậm chí còn đi xa tới mức tham dự vào một cuộc họp về bán hàng của công ty để công khai ủng hộ Levinsohn với các nhà quảng cáo - một điều hiếm thấy với một Chủ tịch hội đồng quản trị.
  
-Trong tháng Sáu, Amoroso đã giúp Levinsohn tuyển dụng một nhân viên điều hành cấp cao của Google về Yahoo là Michael Barret. Trong quá trình tuyển dụng, Amoroso đã hứa với Barret rằng chức danh "tạm quyền" của Levinsohn sẽ chỉ đúng chỉ là tạm thời mà thôi - và không có gì phải lo ngại khi rời Goolge vào lúc này.
+Trong tháng Sáu, Amoroso đã giúp Levinsohn tuyển dụng một nhân viên điều hành cấp cao từ Google về Yahoo là Michael Barret. Trong quá trình tuyển dụng, Amoroso đã hứa với Barret rằng chức danh "tạm quyền" của Levinsohn sẽ chỉ đúng chỉ là tạm thời mà thôi - và không có gì phải lo ngại khi rời Goolge vào lúc này.
 
-Levinsohn còn có thêm một lí do khác để nuôi hi vọng của mình: gần như trong suốt hai tháng qua, ngày nào Levinsohn cũng nói chuyện với hai giám đốc điều hành quan trọng nhất của Yahoo là Dan Loeb và Michael Wolf. Mặc dù sự ủng hộ từ phía Amoroso là rất quan trọng, nhưng có lẽ có được sự ủng hộ từ Loeb còn quan trọng hơn nhiều. Loeb đang điều hành một quỹ đầu tư sở hữu hơn 5% cổ phần của Yahoo tên là ThirdPoint, và chính ông đã buộc vị CEO của Yahoo trước đó phải từ chức. Wolf cũng là một đồng minh quan trọng mà Levinsohn cần phải có. Worlf là nguyên chủ tịch của MTV, người đang tư vấn mảng đầu tư truyền thông của ThirdPoint và sau đó được Loeb mời về ngồi vào một ghế trong Hội đồng quản trị của Yahoo để bắt tay vào tìm kiếm một CEO mới cho công ty.
+Levinsohn còn có thêm một lí do khác để nuôi hi vọng của mình: gần như trong suốt hai tháng qua, ngày nào Levinsohn cũng nói chuyện với hai giám đốc điều hành quan trọng nhất của Yahoo là Dan Loeb và Michael Wolf. Mặc dù sự ủng hộ từ phía Amoroso là rất quan trọng, nhưng có lẽ có được sự ủng hộ từ Loeb còn quan trọng hơn nhiều. Loeb đang điều hành một quỹ đầu tư sở hữu hơn 5% cổ phần của Yahoo tên là ThirdPoint, và chính ông đã buộc vị CEO của Yahoo trước đó phải từ chức. Wolf cũng là một đồng minh quan trọng mà Levinsohn cần phải có. Wolf là nguyên chủ tịch của MTV, người đang tư vấn mảng đầu tư truyền thông của ThirdPoint và sau đó được Loeb mời về ngồi vào một ghế trong Hội đồng quản trị của Yahoo để bắt tay vào tìm kiếm một CEO mới cho công ty.
    
-Levinsohn bắt đầu bài thuyết trình của mình. Tất cả mọi người đều mong đợi một bài thuyết trình tuyệt vời vì ai cũng biết ông ta sẽ chuẩn bị có những thay đổi lớn lao trong hướng đi sắp tới của Yahoo.
+Levinsohn bắt đầu bài thuyết trình của mình. Tất cả mọi người đều mong đợi một bài thuyết trình tuyệt vời vì ai cũng biết ông ta chuẩn bị có những thay đổi lớn lao trong hướng đi sắp tới của Yahoo.
 
 Ông ta muốn Yahoo ngừng việc cạnh tranh trong mảng công nghệ với các gã khổng lồ khác như Google hay Microsoft và tập trung hoàn toàn vào thị trường truyền thông và nội dung số như Disney, Time Warner và News Corporation. Trong quá trình tiếp quản của mình, Levinsohn muốn bán hoặc giải thể một vài mảng kinh doanh của Yahoo. Ông ta giải thích với bước đi này, số lượng nhân viên của Yahoo sẽ giảm đi 10,000 người và tăng doanh thu cũng như lợi nhuận trước thuế lên khoảng 50%.
 
-Trên thực tế, Levinsohn tuyên bố rằng ông ta và đội ngũ quản lí của mình đã bắt đầu thực hiện kế hoạch này.
+Levinsohn tuyên bố rằng trên thực tế ông ta và đội ngũ quản lí của mình đã bắt đầu thực hiện kế hoạch này.
 
-Levinsohn nói với Hội đồng quản trị rằng dưới sự chỉ đạo của mình, Heckman đã bắt đầu đàm phán với Microsoft để đổi mảng tìm kiếm của Yahoo với cổng thông tin của công ty này, MSN.com cộng thêm một lượng lớn tiền mặt. Levinsohn và Heckman cũng đã bắt đầu đàm phán với Henrique De Castro, một điều hành cấp cao của Google để lấy lại một số mảng quảng cáo của Yahoo. Ngoài ra còn một số trình bày của ông ta liên quan tới việc chuyển đổi một số mảng kinh doanh công nghệ quảng cáo cho doanh nghiệp thành các mảng liên doanh bao gồm cả công ty startup chuyên về quảng cáo tại New York là AppNexus.
+Levinsohn nói với Hội đồng quản trị rằng dưới sự chỉ đạo của mình, Heckman đã bắt đầu đàm phán với Microsoft để đổi mảng tìm kiếm của Yahoo với cổng thông tin của công ty này, **MSN.com**, cộng thêm một lượng lớn tiền mặt. Levinsohn và Heckman cũng đã bắt đầu đàm phán với Henrique De Castro, một điều hành cấp cao của Google để lấy lại một số mảng quảng cáo của Yahoo. Ngoài ra còn một số trình bày của ông liên quan tới việc chuyển đổi một số mảng kinh doanh công nghệ quảng cáo cho doanh nghiệp thành các mảng liên doanh bao gồm cả công ty startup chuyên về quảng cáo tại New York là AppNexus.
 
 **Cũng chính trong thời điểm trình bày kế hoạch của mình, Levinsohn bắt đầu nhận ra rằng ông ta đang ở xa chiếc ghế CEO hơn bao giờ hết.**
 
@@ -66,7 +66,7 @@ Với một giọng to, trầm và chắc chắn, Wolf hỏi: "*Tôi hiểu đư
 
 Một thành viên khác trong hội đồng quản trị mới được Loeb đưa vào là Harry Wilson, cũng bắt đầu về phe Wolf và chỉ trích những bước đi này là "*thiếu tầm nhìn*". 
 
-Câu hỏi cuối cùng mà các thành viên Hội đồng quản trị muốn đặt ra sau khi nghe bài trình bày từ Levinsohn là: **Levinsohn và Heckman đã kí bất kì điều khoản nào để cam kết không hủy bỏ các thương vụ với Google và Microsoft?**
+Câu hỏi cuối cùng mà các thành viên Hội đồng quản trị muốn đặt ra sau khi nghe bài trình bày từ Levinsohn là: **Levinsohn và Heckman đã kí bất kì điều khoản nào để cam kết không hủy bỏ các thương vụ với Google và Microsoft hay chưa?**
  
 Điều hiển nhiên mà tất cả những ai tham dự buổi họp này đều nhận ra là Wolf và Wilson đang muốn chắc chắn rằng khi **một ứng viên CEO khác** khi ngồi vào vị trí đó, ông ta không phải đau đầu để thực hiện những thương vụ không phải do mình đàm phán.
 
