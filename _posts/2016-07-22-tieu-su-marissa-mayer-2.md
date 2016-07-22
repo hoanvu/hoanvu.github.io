@@ -13,7 +13,7 @@ tags: marissa_mayer biography
 
 Marissa Ann Mayer sinh ra vào ngày 30/5/1975. Mẹ cô là Magaret Mayer, một giáo viên nghệ thuật và làm nội trợ trong gia đình. Cha cô là Michael Mayer, một nhà môi trường học.
 
-Cô lớn lên tại Wausau, Wis với một người em trai làm trong lĩnh vực thể thao, Mason Mayer. Cô được hưởng một nền giáo dục trung lưu. Cô học tại một trường công và làm trợ lí tại một quầy bán hoa quả sau giờ học. Nhưng bố mẹ cô có đủ tiền bạc và thời gian để cho cô tham gia vào bất kì hoạt động ngoại khóa nào cô muốn.
+Cô lớn lên tại Wausau, Wis với một người em trai thích chơi thể thao, Mason Mayer. Cô được hưởng một nền giáo dục trung lưu. Cô học tại một trường công và làm trợ lí tại một quầy bán hoa quả sau giờ học. Nhưng bố mẹ cô có đủ tiền bạc và thời gian để cho cô tham gia vào bất kì hoạt động ngoại khóa nào cô muốn.
 
 Ngày nay khi nhìn thấy Mayer trên các mặt báo, hầu hết những gì chúng ta thấy là những hình ảnh cô đang đứng trên các diễn đàn, nói chuyện với người phỏng vấn trước rất đông người nghe. Cô thường mặc những bộ trang phục được thiết kế riêng - có thể là của Oscar de la Renta, nhà tạo mốt ưa thích của cô, trông rất mạnh mẽ, tự tin và dường như đang làm chủ tất cả.
 
