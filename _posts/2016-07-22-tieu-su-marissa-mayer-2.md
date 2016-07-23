@@ -10,7 +10,7 @@ tags: marissa_mayer biography
 
 - [Phần 1](http://hoanvu.github.io/2016/07/vn-tieu-su-marissa-mayer)
 - **Phần 2**
-- [Phần 3](http://hoanvu.github.io/2016/07/vn-tieu-su-marissa-mayer-3)
+- [Phần 3](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-3)
 
 <hr>
 
