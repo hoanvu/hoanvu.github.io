@@ -12,12 +12,13 @@ Bài viết bắt đầu bằng sự kiện năm 2012, khi Hội đồng quản 
 
 Các bạn có thể đọc bản gốc ở đây: http://www.businessinsider.com/marissa-mayer-biography-2013-8
 
-<hr>
+<br>
 
 #### Mục lục
 
 - **Phần 1**
-- [Phần 2](http://127.0.0.1:4000/2016/07/tieu-su-marissa-mayer-2)
+- [Phần 2](http://hoanvu.github.io/2016/07/vn-tieu-su-marissa-mayer-2)
+- [Phần 3](http://hoanvu.github.io/2016/07/vn-tieu-su-marissa-mayer-3)
 
 <hr>
 
