@@ -159,7 +159,7 @@ Thay vì ấn phím Delete, cô ấn vào phím Space và email được mở ra
 
 Email có tựa đề: “Làm việc tại Google?”
 
-Mayer đọc email đó và nhớ lại một cuộc nói chuyện của mình với giáo sư Eric Roberts, người vẫn làm cố vấn cho cô nhiều năm sau khóa học Khoa học máy tính đầu tiên của mình tại Stanford. Trong khóa học mùa thu trước đó, Roberts nghe Mayer trình bày về một Hệ thống gợi ý cô ấy mới xây dựng, và vị giáo sư này khuyên Mayer nên gặp gỡ và nói chuyện với hai chàng nghiên cứu sinh Ph.D mà ông biết vì họ cũng đang xây dựng một hệ thống tương tự. Hai anh chàng n tên là Sergey Brin và Larray Page.
+Mayer đọc email đó và nhớ lại một cuộc nói chuyện của mình với giáo sư Eric Roberts, người vẫn làm cố vấn cho cô nhiều năm sau khóa học Khoa học máy tính đầu tiên của mình tại Stanford. Trong khóa học mùa thu trước đó, Roberts nghe Mayer trình bày về một Hệ thống gợi ý cô ấy mới xây dựng, và vị giáo sư này khuyên Mayer nên gặp gỡ và nói chuyện với hai chàng nghiên cứu sinh Ph.D mà ông biết vì họ cũng đang xây dựng một hệ thống tương tự. Hai anh chàng này tên là Sergey Brin và Larray Page.
 
 <br>
 
