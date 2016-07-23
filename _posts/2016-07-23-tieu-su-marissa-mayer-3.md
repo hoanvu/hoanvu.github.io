@@ -104,7 +104,7 @@ Sau khi Mayer dạy một khóa vào mùa xuân, Roberts làm một cuộc khả
 
 <br>
 
-[![Xem Marissa Mayer đứng lớp tại Stanford](http://127.0.0.1:4000/images/posts/marissa_mayer_3/marissa_mayer.png)](https://www.youtube.com/watch?v=soYKFWqVVzg){:target="_blank"}
+[![Xem Marissa Mayer đứng lớp tại Stanford](https://github.com/hoanvu/hoanvu.github.io/blob/master/images/posts/marissa_mayer_3/marissa_mayer.png?raw=true)](https://www.youtube.com/watch?v=soYKFWqVVzg){:target="_blank"}
 <center>Click để xem Marissa Mayer đứng lớp tại Stanford</center>
 
 <br>
