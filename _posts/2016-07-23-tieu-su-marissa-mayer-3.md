@@ -53,7 +53,7 @@ Thiết kế của cô ấy tốt tới mức giáo sư của môn học CS105 n
 
 Roberts ấn tượng với hình ảnh pháo hoa của Mayer tới mức ông ấy đã mời Mayer và các sinh viên đứng đầu trong lớp về nhà mình dùng bữa tối. Vị giáo sư này sau đó trở thành người hướng dẫn của cô ấy, và thêm một lần nữa, Mayer lại có một mối liên hệ sâu sắc với giáo viên của mình.
 
-**Mayer cuối cùng cũng tìm ra chuyên ngành của mình.**
+**Mayer cuối cùng cũng tìm ra ngành học mà mình luôn tìm k.**
 
 <br>
 
