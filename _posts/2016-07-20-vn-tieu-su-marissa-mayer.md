@@ -2,8 +2,8 @@
 layout: post
 title: "Tiểu sử Marissa Mayer - 1"
 date: 2016-07-20 20:20:10 +0700
-categories: biography
-tags: marissa_mayer biography
+categories: tiểu_sử
+tags: marissa_mayer biography tiểu_sử
 ---
 
 Bài này mình đọc cũng khá lâu rồi, cảm giác lần đầu đọc là như đang đọc một câu chuyện trinh thám vậy, nhập tâm tới mức đó. Hôm nay gặp lại nó trên Internet. Quyết định dịch lại để chia sẻ. Rất mong mọi người cũng có cảm giác giống mình.
