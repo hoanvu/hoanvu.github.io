@@ -58,7 +58,7 @@ Roberts ấn tượng với hình ảnh pháo hoa của Mayer tới mức ông �
 <br>
 
 ![Giáo sư khoa học máy tính Eric Roberts tại Stanford nói Mayer là một giảng viên tuyệt vời.](http://static1.businessinsider.com/image/5213be046bb3f73c1b000009-715-479/stanford%20professor%20eric%20roberts.jpg)
-<center>Giáo sư khoa học máy tính Eric Roberts tại Stanford nói Mayer là một giảng viên tuyệt vời.</center>
+<center>Giáo sư khoa học máy tính Eric Roberts tại Stanford diễn tả Mayer là một giảng viên tuyệt vời.</center>
 
 <br>
 
