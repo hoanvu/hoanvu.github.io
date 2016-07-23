@@ -2,21 +2,47 @@
 layout: default
 ---
 
+<!--<div class="well">-->
+<!--{%for post in site.posts %}-->
+    <!--{% unless post.next %}-->
+        <!--<h1>{{ post.date | date: '%Y' }}</h1>-->
+        <!--<ul>-->
+    <!--{% else %}-->
+        <!--{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}-->
+        <!--{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}-->
+        <!--{% if year != nyear %}-->
+            <!--</ul>-->
+            <!--<h1>{{ post.date | date: '%Y' }}</h1>-->
+            <!--<ul>-->
+        <!--{% endif %}-->
+    <!--{% endunless %}-->
+
+    <!--<li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d" }} - {{ post.title }}</a></li>-->
+<!--{% endfor %}-->
+<!--</ul>-->
+<!--</div>-->
+
 <div class="well">
 {%for post in site.posts %}
     {% unless post.next %}
         <h1>{{ post.date | date: '%Y' }}</h1>
-        <ul>
+        <div class="post_table">
+        <table>
     {% else %}
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
         {% if year != nyear %}
-            </ul>
+            </table>
             <h1>{{ post.date | date: '%Y' }}</h1>
-            <ul>
+            <table>
         {% endif %}
     {% endunless %}
-    <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d" }} - {{ post.title }}</a></li>
+    <tr>
+        <td class="date_col">{{ post.date | date: "%b %-d" }}</td>
+        <td><a href="{{ site.baseurl}}{{ post.url }}"> {{ post.title }}</a></td>
+    </tr>
+
 {% endfor %}
-</ul>
+</table>
+            </div>
 </div>

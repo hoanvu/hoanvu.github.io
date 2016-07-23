@@ -94,3 +94,20 @@ img {
     color: blue;
     font-weight: bold;
 }
+
+table, td, th{
+    border: 1px solid black;
+    padding: 3px 3px;
+}
+
+table {
+    width: 600px;
+}
+
+.date_col {
+    width: 80px;
+}
+
+.post_table table {
+    margin-left: 30px;
+}
