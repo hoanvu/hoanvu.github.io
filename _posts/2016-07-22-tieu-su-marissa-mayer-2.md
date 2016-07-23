@@ -2,7 +2,7 @@
 layout: post
 title: "Tiểu sử Marissa Mayer - 2"
 date: 2016-07-22 10:00:10 +0700
-categories: biography
+categories: tiểu_sử
 tags: marissa_mayer biography tiểu_sử
 ---
 
