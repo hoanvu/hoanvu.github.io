@@ -19,6 +19,7 @@ Các bạn có thể đọc bản gốc ở đây: http://www.businessinsider.co
 - **Phần 1 - Giới thiệu**
 - [Phần 2 - Thời niên thiếu](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-2)
 - [Phần 3 - Từ Stanford tới Google](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-3)
+- [Phần 4 - Sự nghiệp thăng trầm tại Google](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-4)
 
 <hr>
 
