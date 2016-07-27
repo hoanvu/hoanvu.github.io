@@ -140,3 +140,5 @@ Nhưng cũng không mất nhiều thời gian để Mayer tiếp tục chinh ph�
 Và cũng không mất nhiều thời gian để cô ấy đứng trên bục giảng của Stanford, tương tác với mọi người theo cách mà cô ấy cảm thấy mình giỏi nhất - dạy họ.
 
 **Cô ấy quyết định mình sẽ trở thành một giáo viên.**
+
+Dịch bởi: **Hoan Hỉ**

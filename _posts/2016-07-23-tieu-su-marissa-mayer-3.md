@@ -186,3 +186,5 @@ Nhưng cô vẫn muốn chấp nhận rủi ro.
 “Điều mấu chốt ở đây là,” Mayer nói, “tôi nhận ra rằng những gì mình có thể học ở Google, kể cả khi công ty có thất bại đi chăng nữa, nhiều hơn ở bất kì công ty nào khác sẽ mời tôi vào làm việc.”
 
 **Mười ba năm sau đó, Mayer đã làm việc tại Goolge.**
+
+Dịch bởi: **Hoan Hỉ**

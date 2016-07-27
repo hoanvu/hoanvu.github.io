@@ -338,5 +338,4 @@ Google có khoảng 24 ngàn nhân viên vào năm 2010. Đó không phải là 
 
 **Vì vậy, vào đầu năm 2011, cơ hội thăng tiến trong nghề nghiệp của Mayer tại Google gần như không còn nữa. Nhưng một cơ hội rất lớn khác đang chờ đợi cô ấy ở phía trước.**
 
-
-
+Dịch bởi: **Hoan Hỉ**
