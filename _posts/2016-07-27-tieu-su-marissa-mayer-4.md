@@ -326,7 +326,7 @@ Một nhân viên khác nắm khá rõ vấn đề này đưa ra ý kiến của
 
 Người này cho rằng việc Mayer bị trừng phạt vào năm 2010 và 2011 là không công bằng với cô ấy.
 
-**“Đôi lúc cô ấy gặp phải trở ngại bởi vì cô ấy là một người phụ nữ đầy tham vọng, và điều đó thực sự khó khăn trong một thế giới toàn đàn ông. Người ta tấn công Mayer bởi vì cô ấy đã thành công khi còn rất trẻ. Tôi nghĩ là cô ấy còn rất trẻ và sẽ còn học được rất nhiều. Ai rồi mà chẳng mắc lỗi.”**
+**“Đôi lúc người ta gặp phải trở ngại bởi vì đơn giản chỉ là phụ nữ và là một phụ nữ đầy tham vọng, và điều đó thực sự khó khăn trong một thế giới toàn đàn ông. Người ta tấn công Mayer bởi vì cô ấy đã thành công khi còn rất trẻ. Tôi nghĩ là cô ấy còn rất trẻ và sẽ còn học được rất nhiều. Ai rồi mà chẳng mắc lỗi.”**
 
 Một lí do khác cũng khiến cho sự nghiệp của Mayer đi chậm lại từ 2011 là do Google lúc này đã phát triển quá lớn mạnh.
 
