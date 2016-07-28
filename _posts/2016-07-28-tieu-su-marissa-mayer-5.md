@@ -24,7 +24,7 @@ Cô phóng viên này nói với Barret tin tức đang làm chấn động các
 
 Barret vô cùng ngạc nhiên.
 
-Barret cũng mới chỉ rời Google để gia nhập Yahoo chưa đầy một tháng trước đó.
+Anh ta cũng mới chỉ rời Google để gia nhập Yahoo chưa đầy một tháng trước đó.
 
 <br>
 
@@ -185,13 +185,13 @@ Một vị giám đốc để ý và nhận ra một điều khá buồn cười
 
 **Sau bữa tối hôm đó, Wolf, Chủ tịch Ủy ban tìm kiếm nhân sự cấp cao của Yahoo, đã quyết định rằng Marissa Mayer sẽ là CEO tiếp theo của công ty.**
 
-Với kinh nghiệm của mình trong việc điều hành các sản phẩm cốt lõi của Google như Search, Google Maps, và Gmail, cô ấy chính là hình mẫu của một CEO cần phải có tính đột phá, cách tân và hướng-sản-phẩm mà nhà thông thái Marc Andreessen đã nói với anh ta hồi tháng Một.
+**Với kinh nghiệm của mình trong việc điều hành các sản phẩm cốt lõi của Google như Search, Google Maps, và Gmail, cô ấy chính là hình mẫu của một CEO cần phải có tính đột phá, cách tân và hướng-sản-phẩm mà nhà thông thái Marc Andreessen đã nói với anh ta hồi tháng Một.**
 
 Nhưng Wolf, cùng với những đồng minh trong Hội đồng quản trị ủng hộ Mayer gặp phải một vấn đề.
 
 Vào khoảng giữa tháng Sáu, những thành viên khác trong Hội đồng quản trị đã quyết định rằng CEO tạm quyền Ross Levinsohn sẽ chính thức ngồi lên chiếc ghế này.
 
-Khi Thompson từ chức vào hồi giữa tháng Năm, và Levinsohn lên làm CEO tạm quyền, vị Chủ tịch Hội đồng quản trị mới của Yahoo là Fred Amoroso đã kéo Levinsohn sang một bên và nói rằng anh ta hãy cứ điều hành Yahoo như thể là mình đã là CEO của công ty. Sau cuộc nói chuyện đó, Levinsohn gửi một lời nhắn tới tất cả nhân viên của Yahoo. Anh ấy viết, “Tôi đang bừng bừng khí thế, và hi vọng các bạn cũng vậy. Tôi tin tưởng vào thứ mà chúng ta đang làm. Chúng ta có đội ngũ vô cùng tài năng, sức mạnh không thể so sánh trong những lĩnh vực trọng tâm, và quan trọng nhất, tôi nhìn thấy niềm tự hào màu tím ở khắp mọi nơi. Hãy cùng tiến về phía trước cùng với lòng tin tưởng và sự tự tin tuyệt đối.”
+Khi Thompson từ chức vào hồi giữa tháng Năm, và Levinsohn lên làm CEO tạm quyền, vị Chủ tịch Hội đồng quản trị mới của Yahoo là Fred Amoroso đã kéo Levinsohn sang một bên và nói rằng anh ta hãy cứ điều hành Yahoo như thể là mình đã là CEO của công ty. Sau cuộc nói chuyện đó, Levinsohn gửi một lời nhắn tới tất cả nhân viên của Yahoo. Anh ấy viết, “*Tôi đang bừng bừng khí thế, và hi vọng các bạn cũng vậy. Tôi tin tưởng vào thứ mà chúng ta đang làm. Chúng ta có đội ngũ vô cùng tài năng, sức mạnh không thể so sánh trong những lĩnh vực trọng tâm, và quan trọng nhất, tôi nhìn thấy niềm tự hào màu tím ở khắp mọi nơi. Hãy cùng tiến về phía trước cùng với lòng tin tưởng và sự tự tin tuyệt đối.*”
 
 <br>
 
@@ -204,7 +204,7 @@ Levinsohn chớp lấy cơ hội của mình rất nhanh, và chỉ đến cuố
 
 Khi mà Levinsohn làm việc cật lực để có thể ngồi lên chiếc ghế CEO chính thức, Hội đồng quản trị của Yahoo cũng bắt đầu nhận được áp lực rất lớn từ ngành công nghệ trong việc chính thức giao cho anh ta công việc này. Các đồng minh của Levinsohn trong lĩnh vực truyền thông, quảng cáo, và giải trí liên tục viết thư cho các thành viên trong Hội đồng quản trị của Yahoo để khuyến nghị về việc này. 
 
-CEO LinkedIn Jeff Weiner cùng với đồng sáng lập Reid Hoffman, cũng là một nhà đầu tư mạo hiểm còn nhiệt tình ủng hộ Levinsohn công khai trong hội thảo All Things Digital của tờ báo The Wall Street Journal và nói rằng Levinsohn là người không thể phù hợp hơn với Yahoo vào lúc này.
+CEO LinkedIn Jeff Weiner cùng với đồng sáng lập Reid Hoffman, cũng là một nhà đầu tư mạo hiểm còn nhiệt tình ủng hộ Levinsohn công khai trong hội thảo All Things Digital của tờ báo The Wall Street Journal và nói rằng **Levinsohn là người không thể phù hợp hơn với Yahoo vào lúc này.**
 
 <br>
 
@@ -213,11 +213,11 @@ CEO LinkedIn Jeff Weiner cùng với đồng sáng lập Reid Hoffman, cũng là
 
 <br>
 
-Sau vài tuần chưa thấy thông báo về chức vụ CEO cho vị CEO tạm quyền, thậm chí đến Marc Andreessen còn viết một lá thư cho Loeb nói rằng có lẽ Yahoo nên để Levinsohn chính thức ngồi lên chiếc ghế này và đi theo hướng của một công ty truyền thông, vì có lẽ sẽ rất khó để có thể kiếm được một CEO theo “hướng sản phẩm”, và sẽ rất có hại cho công ty nếu tình trạng này còn chưa chấm dứt.
+Sau vài tuần chưa thấy thông báo về chức vụ CEO cho vị CEO tạm quyền, thậm chí đến Marc Andreessen còn viết một lá thư cho Loeb nói rằng có lẽ Yahoo nên để Levinsohn chính thức ngồi lên chiếc ghế này và đi theo hướng của một công ty truyền thông, vì có lẽ sẽ rất khó để có thể kiếm được một CEO theo “hướng sản phẩm” xuất sắc cho Yahoo, và sẽ rất có hại cho công ty nếu tình trạng này còn chưa chấm dứt.
 
 Cùng lúc đó, một phóng viên của All Things D là Kara Swisher - người trong những năm qua luôn đưa những tin sốt dẻo về Yahoo nhờ có mối quan hệ tốt đẹp với các thành viên Hội đồng quản trị - cũng tỏ ra ủng hộ việc công ty nên thuê Levinsohn. Cô ta nói lí do duy nhất để Hội đồng quản trị chưa đưa ra quyết định chính thức đối với Levinsohn là bởi vì họ đang tìm một “CEO kỳ lân - một người không hề tồn tại mà chỉ có trong các giấc mơ.”
 
-Trong khoảng thời gian đầu tháng Bảy, nhiều thành viên trong Hội đồng đã có quyết định cho riêng mình. Họ muốn Levinsohn ngồi lên chiếc ghế CEO chính thức.
+**Trong khoảng thời gian đầu tháng Bảy, nhiều thành viên trong Hội đồng đã có quyết định cho riêng mình. Họ muốn Levinsohn ngồi lên chiếc ghế CEO chính thức.**
 
 <br>
 
@@ -242,7 +242,7 @@ Sáu ngày trước đó, Swisher đã viết một bài báo tiết lộ chính
 
 David Kenny cũng là một trong những ứng cử viên yêu cầu được giữ bí mật. Mùa thu trước đó, trước khi Yahoo thuê Scott Thompson, Kenny đã có một cuộc phỏng vấn cho vị trí CEO tại Sunnyvale. Sau đó nhiều thông tin về cuộc gặp này bị rò rỉ khiến cho Kenny phải từ chức chủ tịch tại Akamai. Sự nghiệp của Kenny cũng không gặp vấn đề gì khi sau đó anh ta cũng được thuê làm CEO của The Weather Channel - nhưng chắc chắn rằng Kenny không hề muốn điều này xảy ra với bất cứ ai.
 
-Các thành viên Hội đồng quản trị được chiếc xe đưa đi một quãng đường dài đúng 5 dặm - đi dọc theo phía nam đường University, tiếp tục đi về phía nam trên đường 101, ra khỏi đường cao tốc tại Oregon Expressway, và tiếp tục đi trên đường Page Mill.
+Các thành viên Hội đồng quản trị được chiếc xe đưa đi một quãng đường dài đúng 5 dặm - đi dọc theo phía nam đường University, tiếp tục đi về phía nam trên đường 101, ra khỏi đường cao tốc tại Oregon Expressway, và tiếp tục đi vào phố Page Mill.
 
 Sau khoảng 10 – 15 phút, chiếc xe dừng lại tại một khu tổ hợp, tất cả mọi người cùng xuống ở đó.
 
@@ -267,9 +267,9 @@ Sau một khoảng thời gian đủ lâu để chắc chắn rằng hai ngườ
 
 Tất cả những ai biết rõ về thời thơ ấu, quá trình học tập cũng như sự nghiệp của cô ấy sẽ đoán được điều gì sẽ xảy ra tiếp theo. 
 
-Mayer tiến vào trong phòng và làm kinh ngạc tất cả những ai có trong đó.
+**Mayer tiến vào trong phòng và làm kinh ngạc tất cả những ai có trong đó.**
 
-Cô ấy miêu tả việc mình biết quá rõ Yahoo và các sản phẩm của công ty. Cô ấy trình bày về việc các sản phẩm của Yahoo sẽ chuyển mình ra sao dưới sự lãnh đạo của mình. Bài trình bày của Mayer đưa ra thông tin chi tiết đến mức khó tin về mảng kinh doanh tìm kiếm của Yahoo, các phân tích về người dùng cùng nhiều loại dữ liệu khác. Cô đưa ra các giải pháp để thay đổi văn hóa của Yahoo như tạo ra cơ cấu thông suốt, thêm nhiều chế độ cũng như nhiệm vụ. Cô cũng trình bày các điểm yếu của bản thân, và giải thích làm thế nào để có thể vượt qua những điểm yếu đó - như bằng cách thuê người đã có sẵn những kĩ năng mà cô chưa có. 
+**Cô ấy miêu tả việc mình biết quá rõ Yahoo và các sản phẩm của công ty ra sao. Cô trình bày về việc các sản phẩm của Yahoo sẽ chuyển mình thế nào dưới sự lãnh đạo của mình. Bài trình bày của Mayer đưa ra nhiều thông tin chi tiết đến mức khó tin về mảng kinh doanh tìm kiếm của Yahoo, các phân tích về người dùng cùng nhiều loại dữ liệu khác. Cô đưa ra các giải pháp để thay đổi văn hóa của Yahoo như tạo ra cơ cấu thông suốt, thêm nhiều chế độ cũng như nhiệm vụ. Cô cũng trình bày các điểm yếu của bản thân, và giải thích làm thế nào để có thể vượt qua những điểm yếu đó - như bằng cách thuê người đã có sẵn những kĩ năng mà cô chưa có.** 
 
 Khi Mayer kết thúc bài trình bày, Jim Citrin nói rằng anh ta sẽ gọi cho cô ấy biết quyết định của Hội đồng vào lúc 8h tối.
 
@@ -277,20 +277,20 @@ Mayer rời đi.
 
 Nhưng các thành viên trong Hội đồng quản trị vẫn chưa thể thống nhất quyết định của mình.
 
-Một số người phản đối việc thuê Mayer. Họ nói rằng cô chưa có đủ kinh nghiệm quản lí một tập đoàn. Một vài người tỏ ra ưu tiên Levinsohn hơn vì cho rằng anh ta là một người mà ThirdPoint dễ điều khiển hơn. Họ nghĩ đó là lí do mà một trong những văn phòng của ThirdPoint đã được chọn làm địa điểm bí mật cho cuộc phỏng vấn này.
+**Một số người phản đối việc thuê Mayer. Họ nói rằng cô chưa có đủ kinh nghiệm quản lí một tập đoàn. Một vài người tỏ ra ưu tiên Levinsohn hơn vì cho rằng anh ta là một người mà ThirdPoint dễ điều khiển hơn.** Họ nghĩ đó là lí do mà một trong những văn phòng của ThirdPoint đã được chọn làm địa điểm bí mật cho cuộc phỏng vấn này.
 
 Những thành viên phản đối việc thuê Mayer ngoài người to tiếng nhất là Amoroso, còn có Brad Smith và David Kenny. Họ cho rằng chiến lược đưa Yahoo thành một công ty chuyên về “truyền thông” của Levinsohn tốt hơn chiến lược của Mayer để biến Yahoo thành một công ty chuyên về “sản phẩm”.
 
 <br>
 
-![Brad Smith](http://static2.businessinsider.com/image/4e8484a769bedd153d00004a-554-416/bradsmithintuit.jpg)
-<center>Brad Smith</center>
+![Brad Smith lo ngại rằng Mayer còn thiếu rất nhiều kinh nghiệm quản lí một công ty](http://static2.businessinsider.com/image/4e8484a769bedd153d00004a-554-416/bradsmithintuit.jpg)
+<center>Brad Smith lo ngại rằng Mayer còn thiếu rất nhiều kinh nghiệm quản lí một công ty</center>
 
 <br>
 
-Họ nói rằng Mayer có thể đem đến nhiều hi vọng - cô ấy có thể tạo ra những sản phẩm tầm cỡ như Facebook, Google Maps hay Twitter - nhưng Levinsohn là một lựa chọn an toàn hơn, và có khả năng tạo ra lợi nhuận nhiều hơn.
+**Họ nói rằng Mayer có thể đem đến nhiều hi vọng - cô ấy có thể tạo ra những sản phẩm tầm cỡ như Facebook, Google Maps hay Twitter - nhưng Levinsohn là một lựa chọn an toàn hơn, và có khả năng tạo ra lợi nhuận nhiều hơn.**
 
-Loeb, người đã từng tạo ra một cuộc “tắm máu” để chiếm lấy một ghế trong Hội đồng quản trị,  và tất nhiên là người mà lá phiếu có sức nặng nhất, không quan tâm đến chuyện Mayer là một lựa chọn “được ăn cả, ngã về không.” Quan điểm của anh ta là chỉ riêng lợi nhuận từ việc bán các cổ phần từ hai công ty Châu Á mà Yahoo đang nắm cũng đã tạo ra cho công ty một “mức sàn” đủ để có thể đánh cược với ván bài “liều ăn nhiều” mà Mayer đã trình bày.
+Loeb, người đã từng tạo ra một cuộc “tắm máu” để chiếm lấy một ghế trong Hội đồng quản trị,  và tất nhiên là người mà lá phiếu có sức nặng nhất, **không quan tâm đến chuyện Mayer là một lựa chọn “được ăn cả, ngã về không.” Quan điểm của anh ta là chỉ riêng lợi nhuận từ việc bán các cổ phần từ hai công ty Châu Á mà Yahoo đang nắm cũng đã tạo ra cho công ty một “mức sàn” đủ để có thể đánh cược với ván bài “liều ăn nhiều” mà Mayer đã trình bày.**
 
 8h tối hôm đó, tại bữa tiệc ở bên kia thành phố, Mayer không thể ngừng việc kiểm tra tin nhắn điện thoại.
 
@@ -344,6 +344,6 @@ Trong lúc đó, đang trên chuyến bay vừa rời Luân Đôn để tới Ne
 
 Amoroso bắt đầu giải thích.
 
-Ông ta nói, “Chúng tôi yêu Ross. Chúng tôi cám ơn Ross. Chúng tôi muốn anh ta ở lại. Chúng tôi không hề mong đợi người như Marissa, nhưng khi cô ấy xuất hiện, tất cả mọi người đều bị ấn tượng.”
+Ông ta nói, **“Chúng tôi yêu Ross. Chúng tôi cám ơn Ross. Chúng tôi muốn anh ta ở lại. Chúng tôi không hề mong đợi người như Marissa, nhưng khi cô ấy xuất hiện, tất cả mọi người đều bị ấn tượng.”**
 
-“Đây là một quyết định rất khó khăn. Và mặc dù không có gì phải bàn cãi là Ross đang làm rất tốt công việc của mình, Marissa lại đưa ra được một tầm nhìn ở một cấp độ hoàn toàn mới cho công ty mà chúng tôi không thể bỏ qua.”
+**“Đây là một quyết định rất khó khăn. Và mặc dù không có gì phải bàn cãi là Ross đang làm rất tốt công việc của mình, Marissa lại đưa ra được một tầm nhìn ở một cấp độ hoàn toàn mới cho công ty mà chúng tôi không thể bỏ qua.”**
