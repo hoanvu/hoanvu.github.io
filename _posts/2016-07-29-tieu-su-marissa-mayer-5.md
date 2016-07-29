@@ -340,7 +340,7 @@ Cuối cùng, Fred Amoroso tiến vào và gửi thông báo chính thức cho L
 
 <br>
 
-Trong lúc đó, đang trên chuyến bay vừa rời Luân Đôn để tới New York, Michael Barret cũng tham dự vào một cuộc họp cùng với các điều hành cấp cao khác. 
+Trong lúc đó, đang trên chuyến bay vừa rời New York để tới Luân Đôn, Michael Barret cũng tham dự vào một cuộc họp cùng với các điều hành cấp cao khác. 
 
 Amoroso bắt đầu giải thích.
 
