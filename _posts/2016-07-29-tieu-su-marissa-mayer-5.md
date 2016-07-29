@@ -16,6 +16,11 @@ tags: marissa_mayer biography tiểu_sử
 
 <hr>
 
+![Hành trình đến với Yahoo](http://static2.businessinsider.com/image/52150612ecad04317300000f-800-200/part%202_03.jpg)
+<center>Hành trình đến với Yahoo</center>
+
+<br>
+
 Vào buổi chiều thứ 2, ngày 16/7/2012, Giám đốc doanh thu của Yahoo Michael Barret đang đứng trước cửa hải quan tại sân bay JFK ở New York, chờ để lên chuyến bay tới Luân Đôn.
 
 Đột nhiên, điện thoại của anh ta reo lên. Người gọi là một phóng viên. Cô ta nói: “Chúa ơi, sếp của anh sẽ là một người mới toanh đó. Anh nghĩ sao?”
