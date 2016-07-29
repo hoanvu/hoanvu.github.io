@@ -12,7 +12,7 @@ tags: marissa_mayer biography tiểu_sử
 - **Phần 2 - Thời niên thiếu**
 - [Phần 3 - Từ Stanford tới Google](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-3)
 - [Phần 4 - Sự nghiệp thăng trầm tại Google](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-4)
-- [Phần 5 - Trở thành CEO của Yahoo](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-5)
+- [Phần 5 - Hành trình đến với Yahoo](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-5)
 
 <hr>
 
