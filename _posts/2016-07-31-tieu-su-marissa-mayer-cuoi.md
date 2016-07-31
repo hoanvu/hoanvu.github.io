@@ -37,7 +37,7 @@ Yahoo có lợi từ Alibaba theo hai cách.
 
 Trong vài tháng trước khi Mayer gia nhập Yahoo, CEO Scott Thompson cùng với CFO Tim Morse đã kí kết được một thỏa thuận với Alibaba cho phép công ty này mua lại một phần cổ phiếu mà Yahoo đang nắm giữ với giá 7.6 tỉ đô. Khi vẫn còn là CEO, Thompson đã có ý định sử dụng số tiền này để mua lại cổ phần của Yahoo, nhằm giúp tăng giá cổ phiếu của công ty. Khi lên nắm quyền, Mayer vẫn tiếp tục theo đuổi kế hoạch này. 
 
-Chính nhờ Alibaba nên Yahoo đã có hàng tỉ đô để mua lại các cổ phần của mình. Với việc khan hiếm cổ phiếu cùng với việc đang có nhu cầu mua lại với giá trị hàng tỉ đô, giá cổ phiếu sẽ tự nhiên tăng lên. 
+Chính nhờ Alibaba nên Yahoo đã có hàng tỉ đô để mua lại các cổ phần của mình. Với việc khan hiếm cổ phiếu cùng với nhu cầu mua lại tăng cao với giá trị hàng tỉ đô, giá cổ phiếu sẽ tự nhiên tăng lên. 
 
 Alibaba cũng giúp giá cổ phiếu của Yahoo tăng lên nhờ vào một cách thứ hai, đó là tăng giá trị cổ phiếu của chính công ty này. 
 
