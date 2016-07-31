@@ -353,3 +353,5 @@ Amoroso bắt đầu giải thích.
 Ông ta nói, **“Chúng tôi yêu Ross. Chúng tôi cám ơn Ross. Chúng tôi muốn anh ta ở lại. Chúng tôi không hề mong đợi người như Marissa, nhưng khi cô ấy xuất hiện, tất cả mọi người đều bị ấn tượng.”**
 
 **“Đây là một quyết định rất khó khăn. Và mặc dù không có gì phải bàn cãi là Ross đang làm rất tốt công việc của mình, Marissa lại đưa ra được một tầm nhìn ở một cấp độ hoàn toàn mới cho công ty mà chúng tôi không thể bỏ qua.”**
+
+Dịch bởi: **Hoan Hỉ**
