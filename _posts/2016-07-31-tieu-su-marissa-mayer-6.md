@@ -14,6 +14,7 @@ tags: marissa_mayer biography tiểu_sử
 - [Phần 4 - Sự nghiệp thăng trầm tại Google](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-4)
 - [Phần 5 - Hành trình đến với Yahoo](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-5)
 - **Phần 6 - Năm đầu tiên**
+- [Phần 7 - Những thử thách khi 40 tuổi](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-cuoi)
 
 <hr>
 
