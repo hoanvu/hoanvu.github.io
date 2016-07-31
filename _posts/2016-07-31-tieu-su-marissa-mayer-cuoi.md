@@ -27,7 +27,7 @@ Giờ đây (ND: tại thời điểm bài gốc được viết), khi bước v
 
 **Với kĩ năng bẩm sinh của một nhà giáo, ở những năm 20 và 30 tuổi của cuộc đời, cô đã dùng kĩ năng ấy để truyền cảm hứng cho hàng nghìn người để họ đã và đang tạo ra những sản phẩm có ích cho hàng triệu người dùng.**
 
-**Thử thách mà cô sẽ gặp phải những năm 40 tuổi là: Liệu cô có thể trở thành một trong những CEO hiếm có và toàn diện về mặt kĩ năng để có thể tạo ra những sản phẩm đột phá đồng thời phải đem lại những tín hiệu tích cực về mặt tài chính.**
+**Thử thách mà cô sẽ gặp phải những năm 40 tuổi là: Liệu cô có thể trở thành một trong những CEO hiếm có và toàn diện về mặt kĩ năng để có thể tạo ra những sản phẩm đột phá đồng thời phải đem lại những tín hiệu tích cực về mặt tài chính hay không?**
 
 Nếu tính bằng giá cổ phiếu, thì Mayer đã làm quá tốt ở năm đầu tiên. Từ khi David Filo trải thấm thảm màu tím có biểu tượng của công ty dưới chân Marissa Mayer, giá cổ phiếu của Yahoo đã tăng từ 15.74 đô lên 28 đô một cổ phiếu vào tháng 8/2013.
 
