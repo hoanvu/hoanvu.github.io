@@ -13,6 +13,7 @@ tags: marissa_mayer biography tiểu_sử
 - [Phần 3 - Từ Stanford tới Google](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-3)
 - [Phần 4 - Sự nghiệp thăng trầm tại Google](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-4)
 - [Phần 5 - Hành trình đến với Yahoo](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-5)
+- [Phần 6 - Năm đầu tiên](http://hoanvu.github.io/2016/07/tieu-su-marissa-mayer-6)
 
 <hr>
 
