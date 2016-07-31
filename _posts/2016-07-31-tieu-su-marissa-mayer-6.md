@@ -341,6 +341,13 @@ Vào thứ Ba, ngày 11/11/2012, Marissa Mayer viết một bài blog công bố
 
 **Đó là một khoảnh khắc rất lớn của Yahoo. Có lẽ không một sản phẩm nào của Yahoo, ngoại trừ trang chủ, quan trọng hơn Yahoo Mail. Nó là lí do lớn nhất mà 700 triệu người dùng còn thèm đoái hoài vào truy cập vào Yahoo.com mỗi tháng. Và số lượng này đã dần ít đi theo năm tháng.** 
 
+<br>
+
+![Ứng dụng Yahoo Mail trên di động](http://static4.businessinsider.com/image/50c74d8469beddd97200000a-651-377/google%20chromescreensnapz019.jpg)
+<center>Ứng dụng Yahoo Mail trên di động</center>
+
+<br>
+
 “Email là thói quen hàng ngày khó bỏ,” Mayer nói trong bài viết. “Nó thường là thứ đầu tiên chúng ta kiểm tra khi thức dậy và là cũng là thứ cuối cùng trước khi ta đi ngủ.”
 
 Ba tháng trước khi tin này được công bố, Mayer cùng 30 nhà thiết kế, quản lí sản phẩm và kĩ sư ngồi lại với nhau quanh một chiếc bàn lớn trong căn phòng họp truyền thống của công ty.
@@ -461,6 +468,13 @@ Karp, sáng lập trang mạng xã hội tên là Tumblr, kể với nhà đầu
 
 Họ quyết định rằng sẽ phải gọi lại cho Yahoo để thông báo là Sandberg đã gọi họ.
 
+<br>
+
+![Sheryl Sandberg](http://static3.businessinsider.com/image/4fe087fb69beddbd76000008-599-449/facebooksherylsandberg.jpg)
+<center>Sheryl Sandberg của Facebook</center>
+
+<br>
+
 Ngày hôm đó, nhà báo Kara Swisher của tờ AllThingsD và đồng nghiệp của mình là Peter Kafka đã viết một bài báo nói rằng Yahoo đang nghiêm túc xem xét việc mua lại Tumblr.
 
 Karp, cùng với Hội đồng quản trị và các nhà đầu tư của công ty tin rằng Sandberg gọi anh ta để xem thông tin đó có đúng hay không, và nếu đúng thì liệu Facebook có thể tham gia vào cuộc đấu giá để mua lại Tumblr hay không.
@@ -514,6 +528,13 @@ Và liệu có thể gặp lại anh ta vào hôm chủ nhật không?
 Karp đồng ý gặp lại. Trong bữa tối hôm chủ nhật, **Mayer giải thích về một mô hình mới trong việc thâu tóm các công ty công nghệ là có thể cho phép các công ty sau khi bị thâu tóm có thể hoạt động một cách độc lập, như một công ty con với thương hiệu riêng của mình. Cô ấy nói đó chính là những gì Google đã làm với Youtube, Facebook đã làm với Instagram, và cũng chính là những gì Yahoo sẽ làm với Tumblr.**
 
 Họ nói chuyện tới tận 2 giờ sáng. Karp nói với Mayer thử đem việc đó ra bàn luận trong cuộc họp với Hội đồng quản trị. 
+
+<br>
+
+![Mayer và Karp](http://static4.businessinsider.com/image/519b84046bb3f74a4f000023-1200-924/marissa-mayer-david-karp-tumblr-yahoo-1.jpg)
+<center>Mayer và Karp</center>
+
+<br>
 
 Trong cuộc họp Quý I với Hội đồng quản trị, Mayer nói cô muốn mua Tumblr. Cô nói Tumblr trong nháy mắt có thể gia tăng vị thế của Yahoo trên thị trường di động và giúp thu hút được một lượng người dùng trẻ rất lớn. Hội đồng quản trị nói sẽ hỗ trợ tối đa cô ấy để hoàn thành thương vụ. 
 
