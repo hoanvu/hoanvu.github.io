@@ -30,6 +30,13 @@ Vào hôm thứ Ba, ngày 17/7/2012, David Filo đang đứng trước của tr�
 
 Và lí do mà Filo đang đứng trước của văn phòng Yahoo là để đợi Marissa Mayer và để thả một tấm thảm tím dài biểu tượng của công ty dưới chân cô ấy.
 
+<br>
+
+![David Filo chào đón Marissa Mayer](http://static2.businessinsider.com/image/5213d04feab8eaee2d000021-617-463/yahoo-ceo-marissa-mayer-and-cofounder-david-filo-flickr-screenshot-5.png)
+<center>David Filo chào đón Marissa Mayer</center>
+
+<br>
+
 **Yahoo chuẩn bị đón tiếp vị cứu tinh của mình.** Nhưng rất nhiều thử thách cũng đang đợi cô.
 
 Website của Yahoo đang càng ngày càng có ít lượt truy cập hơn. Ứng dụng trên điện thoại của công ty cũng chẳng được người dùng quan tâm mấy.
@@ -39,6 +46,13 @@ Trong nhiều năm trời, những nhà điều hành cũng như kĩ sư tài n�
 **Mayer bước vào văn phòng công ty ngày hôm đó với cái bụng bầu đã 7 tháng. Những đồng nghiệp mới của cô tại công ty thắc mắc không biết cô ấy sẽ làm gì để vừa tiếp nhận một nhiệm vụ to lớn trước mắt trong khi cũng sắp phải đón đứa con đầu lòng.**
 
 Sự náo nhiệt diễn ra khắp nơi trong văn phòng. Một nhân viên lâu năm của Yahoo còn tạo ra một tấm poster tương tự như tấm mà Shepard Fairey tạo ra trong chiến dịch bầu cử của Barrack Obama năm 2008 nhưng với hình của Mayer trên đó. Ở bên dưới tấm poster in duy nhất một từ được in hoa tất cả các chữ cái: **“HOPE”**.
+
+<br>
+
+![Marissa Mayer - niềm hi vọng](http://static4.businessinsider.com/image/50099b506bb3f7ae2b00000c-737-569/marissa-mayer-hope.png)
+<center>Niềm hi vọng cho Yahoo</center>
+
+<br>
 
 **Ngay khi đến nơi, việc đầu tiên mà Mayer làm là có cuộc gặp với một nhóm người mà có vẻ không vui mấy với sự kiện này - các nhà điều hành của Yahoo, một vài người trong số họ mới được thăng chức nhờ công của Ross Levinsohn.**
 
