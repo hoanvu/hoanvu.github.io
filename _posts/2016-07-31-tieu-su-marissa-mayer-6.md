@@ -50,7 +50,7 @@ Sự náo nhiệt diễn ra khắp nơi trong văn phòng. Một nhân viên lâ
 <br>
 
 ![Marissa Mayer - niềm hi vọng](http://static4.businessinsider.com/image/50099b506bb3f7ae2b00000c-737-569/marissa-mayer-hope.png)
-<center>Niềm hi vọng cho Yahoo</center>
+<center>"HOPE"</center>
 
 <br>
 
