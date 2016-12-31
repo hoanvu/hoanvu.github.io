@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Return multiple values from a C function"
-date: 2017-01-01 00:10:00 +0700
+date: 2017-01-01 00:10:00 +0800
 categories: c_c++
 tags: pointer 
 ---
