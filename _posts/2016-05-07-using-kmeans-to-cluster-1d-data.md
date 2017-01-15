@@ -2,7 +2,7 @@
 layout: post
 title: "Using KMeans to cluster 1D data"
 date: 2016-05-07 22:23:20 +0700
-categories: algorithm
+categories: algorithm data_science
 tags: algorithm kmeans unsupervised_learning
 ---
 

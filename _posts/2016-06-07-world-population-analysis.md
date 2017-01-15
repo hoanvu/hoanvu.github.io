@@ -2,7 +2,7 @@
 layout: post
 title: "World Population Analysis"
 date: 2016-06-07 16:13:30 +0700
-categories: data_mining visualization python
+categories: data_science python
 tags: data_mining visualization matplotlib pandas python
 ---
 

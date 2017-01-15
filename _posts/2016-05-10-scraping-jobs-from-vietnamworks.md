@@ -2,7 +2,7 @@
 layout: post
 title: "Scraping Vietnamworks job"
 date: 2016-05-10 17:20:20 +0700
-categories: data_mining python
+categories: data_science python
 tags: data_mining scraping python
 ---
 <br>

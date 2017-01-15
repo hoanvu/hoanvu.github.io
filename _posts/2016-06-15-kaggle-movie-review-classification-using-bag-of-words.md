@@ -2,8 +2,8 @@
 layout: post
 title: "Movie Review - Sentimental Analysis using Bag of Words"
 date: 2016-06-15 11:51:30 +0700
-categories: machine_learning
-tags: python machine_learning bag_of_words random_forest movie_reviews
+categories: data_science
+tags: python machine_learning bag_of_words random_forest movie_reviews data_science
 ---
 
 This post is my practical code that follow the Kaggle tutorial about Bag of Words model for Natural Language Processing. Please refer to the following link to read the notebook.
