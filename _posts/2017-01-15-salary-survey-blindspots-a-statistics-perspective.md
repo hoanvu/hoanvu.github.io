@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Salary Survey & Blindspots - A statistics perspective"
+title: "Salary survey & blindspots - A statistics perspective"
 date: 2017-01-15 10:20:00 +0700
 categories: statistics
 tags: salary_survey statistics 
