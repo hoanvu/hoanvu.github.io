@@ -10,7 +10,7 @@ There was an article on VNExpress (one of the largest Vietnam's news website) ab
 
 The original link is not available anymore, but you can read [a copy here](http://ndh.vn/luong-nhan-su-it-binh-quan-26-trieu-dong-moi-thang-20170111012737956p125c135.news){:target="_blank"}. 
 
-I read the article and thought that the information mentioned in that salary survey was indeed quite exaggerated, and I was not alone, many others shared the same opinion. And seems to be true, the article was deleted from the website.
+I read the article and thought that the information mentioned in that salary survey was indeed quite exaggerated, and I was not alone, many others shared the same opinion. And seems to be true, the article was deleted from the website several days later.
 
 In this blog post, I won't stand as an IT guy who deny or approve the truthfulness mentioned by VNExpress because they deleted the news anyway, but as a beginner trying to analyze things using statistics. I'll try to investigate, give some hypothesis and point out flaws that these survey used to have, which in turn failed to convey correct information to readers. As you will see, there're many lurking variables (blindspots) that makes a research like this go wrong.
 
