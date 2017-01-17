@@ -50,7 +50,7 @@ One thing we don't know is that what sample data the surveyor use to create the 
 * First, **obviously not everyone working in IT industry has a Vietnamworks account**, especially for people working in goverment sector. Government workers usually prefer stable jobs, so they rarely consider to switch company, that's why it's quite understandable that they don't have account in a job posting site. This leads to the second point.
 * People working in government **always** have lower salary than people working in private sector. This has a huge impact on the result because **if we include these government workers, the mean salary will be much lower** and more acceptable, but I believe it's not the case here.
 * Third, Vietnamworks is not the only job posting site in Vietnam, there are tons of them such as CareerBuilder, ITViec, HR2B, MyWork, TimViecNhanh, TimViec24h, ...
-* People have tendency to lie about their salaries online. They will try to put higher salary than actual amount they receive in previous employers in order to hope to get better payment while negotiation with recruiter. This will make the mean salary becomes even higher.
+* People have tendency to lie about their salaries online. They will try to put higher salary than actual amount they receive in previous employers in order to hope to get better payment while negotiate with recruiter. This will make the mean salary becomes even higher.
 * ...
 
 I called above points **blindspots** for readers because normally they can't recognize them while reading a news article on the internet. These surveyor posted many numbers, but they didn't provide what was the sample data or many times the sample data is not a representation of the population targeted by the study like in this case. 
